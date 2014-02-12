@@ -6,9 +6,6 @@ layout: default
 Root Architecture file format
 =============================
 
-Abstract
---------
-
 This page will describe the common root architecture file format designed to transfer content from software related  to RSA analysis. 
 
 The file format
