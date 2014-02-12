@@ -4,8 +4,7 @@ layout: default
 ---
 
 
-IN CONSTRUCTION
-============================
+![under construction](http://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Under_construction_icon-blue.svg/500px-Under_construction_icon-blue.svg.png)
 
 
 What is rhizobabel?
