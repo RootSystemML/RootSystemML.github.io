@@ -3,11 +3,21 @@ title: Standard format for RSA
 layout: default
 ---
 
-Root System Architecture file format
-====================================
+Root Architecture file format
+=============================
 
 Abstract
 --------
 
-This page describe the common root architecture file format designed to transfer content from software related  to RSA analysis. 
+This page will describe the common root architecture file format designed to transfer content from software related  to RSA analysis. 
 
+The file format
+---------------
+
+### File encoding
+
+...
+
+### File structure
+
+...
