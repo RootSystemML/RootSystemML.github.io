@@ -1,3 +1,5 @@
+markdown: kramdown
+
 # standard jekyll configuration
 
 permalink: /articles/:title
