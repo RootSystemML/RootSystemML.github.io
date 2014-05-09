@@ -1,4 +1,4 @@
-rhizobabel.github.io
+RootSystemML.github.io
 ====================
 
-Website for the RhizoBabel project
+Website for RootSystemML file format
