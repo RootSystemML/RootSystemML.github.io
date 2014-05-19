@@ -5,6 +5,7 @@ layout: default
 
 
 RootSystemML is a file format to represent root architectural data. It is has been designed to alleviate two major bottlenecks: 
+
  - to enable portability of root architecture data between different software tools in an easy and interoperable manner allowing seamless collaborative work, 
  - to provide a standard format upon which to base central repositories which will soon arise following the expanding worldwide root phenotyping effort.
 
@@ -13,6 +14,7 @@ RSML allows to store 2D or 3D image metadata, plant and root properties and geom
 Software
 --------
 The RSML format has been implemented in the follwing software:
+
  - SmartRoot
  - RootNav
  - RhizoScan
