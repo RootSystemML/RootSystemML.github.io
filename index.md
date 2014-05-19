@@ -13,14 +13,14 @@ RSML allows to store 2D or 3D image metadata, plant and root properties and geom
 
 Software
 --------
-The RSML format has been implemented in the follwing software:
+The RSML format has been implemented in the following software:
 
- - SmartRoot
- - RootNav
- - RhizoScan
- - Root System Analyser
+ - [SmartRoot](http://www.uclouvain.be/en-smartroot)
+ - [RootNav](http://www.cpib.ac.uk/tools-resources/software/rootnav/)
+ - [RhizoScan](https://team.inria.fr/virtualplants/research/project/rhizoscan/)
+ - [Root System Analyser](http://www.csc.univie.ac.at/rootbox/rsa.html)
 
-[See the supporting software page for more details](software)
+[comment]: # ([See the supporting software page for more details](software))
 
 File format
 -----------
