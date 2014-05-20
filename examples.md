@@ -9,4 +9,4 @@ RSML allows to store a variety of content. The basic data contained in an RSML f
 
 ###Basic *arabidopsis* example
 
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
+[![arabidopsis-simple](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
