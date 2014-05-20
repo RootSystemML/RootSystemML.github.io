@@ -17,9 +17,7 @@ A simple root architecture which contains 1 primary root, 3 first order laterals
   - [Download the RSML file with diameter](images/examples/arabidopsis_simple_annotation.rsml)
   - [Download the RSML file with additional annotation](images/examples/arabidopsis_simple_annotation.rsml)
 
-<div style="float: right">
     <a href="images/examples/arabidopsis_simple.tif">
     <img src="images/examples/arabidopsis_simple_tb.jpg" alt="arabidopsis-simple" title="Title"/>
     </a>
     some text
-</div>
