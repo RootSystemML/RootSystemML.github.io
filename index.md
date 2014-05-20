@@ -24,3 +24,6 @@ The RSML format has been implemented in the following software:
 ###File format
 RSML is based on the XML standard and a xml-schema-definition (xsd) can be used to validate the validity of an RSML file.
 See [the file format page](format) for a detailed description of the features and constraints of RSML. 
+
+###Examples
+[The examples page](examples) provides some RSML files as well as the images they have been constructed from. 
