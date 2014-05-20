@@ -5,6 +5,12 @@ layout: default
 
 ####The RSML metadata
 
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
 ```
 <metadata>
     <version>1</version>
