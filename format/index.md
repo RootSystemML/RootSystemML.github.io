@@ -7,7 +7,7 @@ layout: default
 
 The RootSystemML file format is made of two main parts: the *metadata* and the *scene*. The first contains general data about
 
-[RSML format schema](../images/format)
+[![RSML format schema](../images/format.png)
 
 [See the definition of the metadata section](metadata)
 
