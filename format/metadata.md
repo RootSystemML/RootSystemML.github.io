@@ -16,6 +16,7 @@ layout: default
         <image>
             <name>name_of_image_file</name>
             <captured>2014-02-19T00:00:00</captured>
+            <sha256>XXXXXXXXX</sha256>
         </image>
     </metadata>
 
