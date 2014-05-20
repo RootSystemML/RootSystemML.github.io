@@ -5,15 +5,33 @@ layout: default
 
 ####The RSML metadata
 
-#####Versioning
+```XML
+<metadata>
+    <version>1</version>
+    <unit>pixel</unit>
+    <resolution>1</resolution>
+    <last-modified>2014-02-20T00:00:00</last-modified>
+    <software>RSML-example</software>
+    <user>RSML-team</user>
+    <file-key>RSML-metadata-example</file-key>
+    <image>
+        <name>name_of_image_file</name>
+        <captured>2014-02-19T00:00:00</captured>
+    </image>
+</metadata>
+```
+
+#####Version
   - Upon publication the agreed format will be version 1.0. Any additional versioning will be agreed upon by all software developers, since all software will be required to handle the changes
   - All changes should be backwards compatible, unless a conversion tool is released.
 
-#####Metadata
-  - File-key provides a position for a text representation of this file. Use of this field is left to the user’s discretion, we recommend it is used as a unique identifier.
+#####Resolution and unit
   - All geometry and values within the document use the pixel as the unit of measurement, with the assumption that they refer directly to some underlying image data.
   - The unit tag specifies what units the resolution tag converts to, with the resolution tag detailing the conversion rate between pixels and the unit.
 
+#####File-key
+  - File-key provides a position for a text representation of this file. Use of this field is left to the user’s discretion, we recommend it is used as a unique identifier.
+  
 #####Property Definitions
   - These allow a given file to define types that will be used in the properties tags later in the document. For example, in the format “name type” the property “dead boolean" allows the <dead>true</dead> attribute to be added to the attributes tag for a plant or root.
   - The optional default tag can be used to provide a value where a tag is not found.
