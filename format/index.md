@@ -12,5 +12,5 @@ The RootSystemML file format is made of two main parts: the *metadata* and the *
  - [See the definition of the metadata section](metadata)
  - [See the definition of the scene section](scene)
 
-[Back to RSML home](index)
+[Back to RSML home](../index)
 
