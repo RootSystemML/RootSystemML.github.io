@@ -10,5 +10,6 @@ RSML allows to store a variety of content. The basic data contained in an RSML f
 ###*"Arabidopsis simple"* example
 
 [![arabidopsis-simple](images/examples/arabidopsis_simple_tb.jpg)](images/examples/arabidopsis_simple.tif)
-  - [Geometry and topology only](images/examples/arabidopsis_simple.rsml)
-  - [Geometry and topology only](images/examples/arabidopsis_simple.rsml)
+  - [RSML with geometry and topology only](images/examples/arabidopsis_simple.rsml)
+  
+  - [RSML with additional annotation](images/examples/arabidopsis_simple_annotation.rsml)
