@@ -20,4 +20,6 @@ A simple root architecture which contains 1 primary root, 3 first order laterals
     <a href="images/examples/arabidopsis_simple.tif">
     <img src="images/examples/arabidopsis_simple_tb.jpg" alt="arabidopsis-simple" title="Title"/>
     </a>
-    some text
+    - some text
+    - qsdqsd
+    - qsdqsd
