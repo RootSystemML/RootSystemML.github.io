@@ -5,27 +5,20 @@ layout: default
 
 ####The RSML metadata
 
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
+    <metadata>
+        <version>1</version>
+        <unit>pixel</unit>
+        <resolution>1</resolution>
+        <last-modified>2014-02-20T00:00:00</last-modified>
+        <software>RSML-example</software>
+        <user>RSML-team</user>
+        <file-key>RSML-metadata-example</file-key>
+        <image>
+            <name>name_of_image_file</name>
+            <captured>2014-02-19T00:00:00</captured>
+        </image>
+    </metadata>
 
-```
-<metadata>
-    <version>1</version>
-    <unit>pixel</unit>
-    <resolution>1</resolution>
-    <last-modified>2014-02-20T00:00:00</last-modified>
-    <software>RSML-example</software>
-    <user>RSML-team</user>
-    <file-key>RSML-metadata-example</file-key>
-    <image>
-        <name>name_of_image_file</name>
-        <captured>2014-02-19T00:00:00</captured>
-    </image>
-</metadata>
-```
 
 #####Version
   - Upon publication the agreed format will be version 1.0. Any additional versioning will be agreed upon by all software developers, since all software will be required to handle the changes
