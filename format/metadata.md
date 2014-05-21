@@ -29,7 +29,7 @@ layout: default
   - All geometry and values within the document use the pixel as the unit of measurement, with the assumption that they refer directly to some underlying [image data](#image).
   - The unit tag specifies what units the resolution tag converts to, with the resolution tag detailing the conversion rate between pixels and the unit. If possible, one of the [standard units][] should be used. 
 
-[standard units]: (units#units)
+[standard units]: units#units
   
 #####last-modified
   - date and time stamp of the last modification of the rsml file
