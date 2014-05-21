@@ -20,8 +20,9 @@ Numbers:
   - `integer`: ...-1,0,1,...
   - `real`:    -3.141592, 2.71828182846
   - `string`
-  
-Measurment:
+                        
+Measurements:
+
   - `m`: meter
   - `cm`: centimeter
   - `mm`: millimeter
