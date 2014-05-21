@@ -51,14 +51,9 @@ layout: default
 
 [Back to RSML file format](index)
 
-[test link to section in same page](#Version)
 [test link to section in same page](#version)
-[test link to section in same page](#Time Sequences)
-[test link to section in same page](#Time_Sequences)
-[test link to section in same page](#time_sequences)
+[test link to section in same page](#resolution-and-unit)
 
-[test link to section in same page](scene/#Properties)
-[test link to section in same page](scene#Properties)
-[test link to section in same page](scene#properties)
-[test link to section in same page](scene/#properties)
+[test link to section in same page](scene#annotations)
+[test link to section in same page](scene#time-series)
 
