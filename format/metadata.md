@@ -26,7 +26,7 @@ layout: default
   - All changes should be backwards compatible, unless a conversion tool is released.
 
 #####Resolution and unit
-  - All geometry and values within the document use the pixel as the unit of measurement, with the assumption that they refer directly to some underlying image data.
+  - All geometry and values within the document use the pixel as the unit of measurement, with the assumption that they refer directly to some underlying [image data](#image-metadata).
   - The unit tag specifies what units the resolution tag converts to, with the resolution tag detailing the conversion rate between pixels and the unit.
 
 #####File-key
@@ -51,9 +51,16 @@ layout: default
 
 [Back to RSML file format](index)
 
+
+<!--
 [test link to section in same page](#version)
 [test link to section in same page](#resolution-and-unit)
 
-[test link to section in same page](scene#annotations)
-[test link to section in same page](scene#time-series)
+[test link to section in other page](scene#annotations)
+[test link to section in other page](scene#time-series)
+
+conclusion:
+ - one # followed by the section name, the section level is irrelevant
+ - use lower-case section name and replace space by '-'
+-->
 
