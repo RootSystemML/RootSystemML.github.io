@@ -6,9 +6,18 @@ layout: default
 #####Date and time
 
 Several rsml metadata, such as the [last-modified](metadata#last-modified) and [image>captured](metadata#image), indicate date (or date-time) data. Those should respect one of the following two [ISO8601](http://en.wikipedia.org/wiki/ISO_8601) format:
-  - for a date only, use `yyyy-mm-dd`format
-  - for date and time, use `Yyyyy-mm-ddThh:mi:si`
 
+  - for a date only, use `yyyy-mm-dd`format
+  - for date and time, use `yyyy-mm-ddThh:mi:si`
+
+where:
+
+  - `yyyy` is the year
+  - `mm` is the month
+  - `dd` is the day
+  - `hh` is the hour between 0 and 24
+  - `mi` is the minutes
+  - `si` is the second
   
 #####Units
 
