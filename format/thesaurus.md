@@ -95,10 +95,13 @@ For the others:
  2. Make the asked addition in `format/thesaurus.md` 
  3. Make pull request to merge the fork content describing its use and scope
  
+Or if you can contact one of the [RootSystemML][RSML org] members that you know to have him/her do the addition.
+
+ 
 In both cases:
 
- - At least two members representing two different groups should accept it
- - before acceptence, the members should inform all the RSML authors and let sufficient time for all to answer
+ - At least two members representing two different groups (i.e. software) should accept it
+ - before acceptance, the members should inform all the RSML authors and let sufficient time for them to answer
  
 
  
