@@ -12,8 +12,7 @@ This thesaurus is not static and new entries can be added by the members of the 
 
 [RSML org]: https://github.com/RootSystemML
 
-
---------
+________ 
 The thesaurus entries follows the format:
 
 ######name: (scale it applies to)
@@ -22,7 +21,8 @@ Description (unit)
  - possible value: meaning
  - possible value
  - ...
---------
+ 
+________ 
 
 #####Property thesaurus:
 
