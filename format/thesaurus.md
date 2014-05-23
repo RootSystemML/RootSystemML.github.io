@@ -87,7 +87,7 @@ confidence in the root node position or other measurements such as diameter ([un
 
 The thesaurus main text is (currently) this page. In order to add an entry, the two methods can be followed depending on the membership.
 
-For the [RootSystemML][RSML org] members, a dedicated [wiki page][wiki/Thesaurus] has been set to discuss possible addition.
+For the [RootSystemML][RSML org] members, a dedicated [wiki page][] has been set to discuss possible addition.
 
 For the others:
 
@@ -103,6 +103,7 @@ In both cases:
 
  
 [unit]: units
+[wiki page]: https://github.com/RootSystemML/RootSystemML.github.io/wiki/Thesaurus
 [RSML org]: https://github.com/RootSystemML
 [RSML_site_git]: https://github.com/RootSystemML/RootSystemML.github.io
 
