@@ -8,7 +8,7 @@ layout: default
 
 RSML allows any property or functions to be defined. However, the *RSML thesaurus* provides a list of standardized property and functions which are recommended for use. Also, those terms should be avoided if the function or property meaning is not as described here.
 
-This thesaurus is not static and new entries can be added by the members of the [RootSystemML github organization][RSML org]. However, its content needs not be implemented by all RSML software.
+This thesaurus is not static and new entries can be added by the RSML format autors and the members of the [RootSystemML github organization][RSML org] through the [indicated open-source protocol][#thesaurus-developement]. However, the thesaurus content needs not be implemented by all RSML software.
 
 [RSML org]: https://github.com/RootSystemML
 
@@ -76,3 +76,16 @@ confidence in the root node position or other measurements such as diameter ([un
  - A values in \[0,1\]: (1 highest trust) for all node of the polyline
 
 [unit]: units
+
+#####Thesaurus Developement
+
+The thesaurus main text is (currently) this page. In order to add an entry, the following steps should be followed:
+
+ - A pull request should be created on the [RootSystemML development site][]
+ - At least two members (representing two different group) should accept it
+ - before acceptence, the members should inform the RSML authors.
+ 
+ 
+ 
+[RootSystemML development site]: https://github.com/RootSystemML/RootSystemML.github.io
+
