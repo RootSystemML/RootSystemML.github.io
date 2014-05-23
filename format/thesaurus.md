@@ -15,7 +15,8 @@ This list is not static and new entries can be added by the member of the [RootS
 The following rhesaurus entries follows the format:
 
 ######name: (scale it applies to)
-Description
+Description (unit)
+
  - possible value: meaning
  - possible value
  - ...
@@ -36,8 +37,9 @@ Indicates which sub-axes have been traced ([unit][]: string)
  - “random”: a random sample has been traced
  - “stratified”: a selected sample, representative of the roots type and density, has been traced
  
-######category:
+######category: (root)
 Gives a sub category of the selected plant ontology ([unit][]: string)
+
  - (Example for lateral root): “fine”, “long”
  
 ######branch-count: (root)
@@ -45,14 +47,17 @@ Independent count of the number of branches ([unit][]: integer)
 
 ######parent-node: (root)
 This property allows for to connect the root axes to the parent axes. More precisely, it indicates which node of the parent axe the first node of this axe is. ([unit][]: integer)
+
  - Eg: “3” means the first node is the same as the 3rd node of parent axe
  
 ######parent-position: (root)
 Indicates at which position on the parent axe this axe starts ([unit][]: real)
+
  - Eg: "3.2" means 20% between the 3rd and 4th nodes in parent polyline
 
 ######User-confidence: (scene, plant and root)
 Indicates the confidence on the measured axe polyline ([unit][]: string or real)
+
  - high
  - medium
  - low
@@ -64,6 +69,7 @@ Indicates the confidence on the measured axe polyline ([unit][]: string or real)
 
 ######confidence:
 confidence in the root node position or other measurements such as diameter ([unit][]: real)
+
  - A values in \[0,1\]: (1 highest trust) for all node of the polyline
 
 [unit]: units
