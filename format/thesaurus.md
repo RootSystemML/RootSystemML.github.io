@@ -8,12 +8,16 @@ layout: default
 
 RSML allows any property or functions to be defined. However, the *RSML thesaurus* provides a list of standardized property and functions which are recommended for use. Also, those terms should be avoided if the function or property meaning is not as described here.
 
-This thesaurus is not static and new entries can be added by the RSML format autors and the members of the [RootSystemML github organization][RSML org] through the [indicated open-source protocol][#thesaurus-developement]. However, the thesaurus content needs not be implemented by all RSML software.
+This thesaurus is not static and new entries can be added by the RSML format autors and the members of the [RootSystemML github organization][RSML org] through the [indicated open-source protocol][new-entries]. However, the thesaurus content needs not be implemented by all RSML software.
+
+
+[new-entries]: #adding-new-entry-to-the-thesaurus
+
 
 ________ 
 The thesaurus entries follows the format:
 
-######name: (scale it applies to)
+######name: (scales it applies to)
 Description (unit)
 
  - possible value: meaning
@@ -21,6 +25,8 @@ Description (unit)
  - ...
  
 ________ 
+
+
 
 #####Property thesaurus:
 
@@ -65,6 +71,8 @@ Indicates the confidence on the measured axe polyline ([unit][]: string or real)
  - invalid
  - software-confidence: (at scene, plant or root)
  - A value in [0,1]: trust in the tracing, 1 is highest trust
+
+
  
 #####Function thesaurus:
 
@@ -73,9 +81,9 @@ confidence in the root node position or other measurements such as diameter ([un
 
  - A values in \[0,1\]: (1 highest trust) for all node of the polyline
 
-[unit]: units
 
-#####Thesaurus Developement
+ 
+#####Adding new entry to the Thesaurus
 
 The thesaurus main text is (currently) this page. In order to add an entry, the two methods can be followed depending on the membership.
 
@@ -84,7 +92,7 @@ For the [RootSystemML][RSML org] members, a dedicated [wiki page][wiki/Thesaurus
 For the others:
 
  1. Fork of the [RSML website source][RSML_site_git]
- 2. Make the asked addition in `format/thesurus.md` 
+ 2. Make the asked addition in `format/thesaurus.md` 
  3. Make pull request to merge the fork content describing its use and scope
  
 In both cases:
@@ -92,7 +100,9 @@ In both cases:
  - At least two members representing two different groups should accept it
  - before acceptence, the members should inform all the RSML authors and let sufficient time for all to answer
  
+
  
+[unit]: units
 [RSML org]: https://github.com/RootSystemML
 [RSML_site_git]: https://github.com/RootSystemML/RootSystemML.github.io
 
