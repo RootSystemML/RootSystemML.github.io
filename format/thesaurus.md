@@ -40,7 +40,7 @@ Indicates which sub-axes have been traced ([unit][]: string)
 ######category: (root)
 Gives a sub category of the selected plant ontology ([unit][]: string)
 
- - (Example for lateral root): “fine”, “long”
+ - Eg (for lateral root): “fine”, “long”
  
 ######branch-count: (root)
 Independent count of the number of branches ([unit][]: integer)
