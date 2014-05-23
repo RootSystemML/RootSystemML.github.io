@@ -10,8 +10,6 @@ RSML allows any property or functions to be defined. However, the *RSML thesauru
 
 This thesaurus is not static and new entries can be added by the RSML format autors and the members of the [RootSystemML github organization][RSML org] through the [indicated open-source protocol][#thesaurus-developement]. However, the thesaurus content needs not be implemented by all RSML software.
 
-[RSML org]: https://github.com/RootSystemML
-
 ________ 
 The thesaurus entries follows the format:
 
@@ -79,12 +77,22 @@ confidence in the root node position or other measurements such as diameter ([un
 
 #####Thesaurus Developement
 
-The thesaurus main text is (currently) this page. In order to add an entry, the following steps should be followed:
+The thesaurus main text is (currently) this page. In order to add an entry, the two methods can be followed depending on the membership.
 
- - A pull request should be created on the [RSML website source][RSML_site_git]
+For the [RootSystemML][RSML org] members, a dedicated [wiki page][wiki/Thesaurus] has been set to discuss possible addition.
+
+For the others:
+
+ 1. Fork of the [RSML website source][RSML_site_git]
+ 2. Make the asked addition in `format/thesurus.md` 
+ 3. Make pull request to merge the fork content describing its use and scope
+ 
+In both cases:
+
  - At least two members representing two different groups should accept it
- - before acceptence, the members should inform all the RSML authors.
+ - before acceptence, the members should inform all the RSML authors and let sufficient time for all to answer
  
  
+[RSML org]: https://github.com/RootSystemML
 [RSML_site_git]: https://github.com/RootSystemML/RootSystemML.github.io
 
