@@ -58,26 +58,34 @@ This property allows **to connect** the root axes to the parent axes. More preci
  - Eg: “3” means this axe 1st node is the same as the 3rd node of parent axe
  
 ######parent-position: (root)
-Indicates at which position on the parent axe this axe starts ([unit][]: real)
+Indicates at which position on the parent axe this axe starts. This preperty is to indicates a measured branching position along the parent root. It does not connect the axes. ([unit][]: real)
 
  - Eg: "3.2" means 20% between the 3rd and 4th nodes in parent polyline
 
-######User-confidence: (scene, plant and root)
-Indicates the confidence on the measured axe polyline ([unit][]: string or real)
+######user-confidence: (scene, plant and root)
+Indicates the confidence on the measured axe polyline given by user ([unit][]: string)
 
  - high
  - medium
  - low
  - invalid
- - software-confidence: (at scene, plant or root)
- - A value in [0,1]: trust in the tracing, 1 is highest trust
+
+######software-confidence: (scene, plant or root)
+Indicates the confidence on the measured axe polyline given by (automated) software ([unit][]: real)
+
+ - A value in [0,1]: trust in the tracing, 1 been highest trust
 
 
  
 #####Function thesaurus:
 
 ######confidence:
-confidence in the root node position or other measurements such as diameter ([unit][]: real)
+confidence in the root node position of the polyline ([unit][]: real)
+
+ - A values in \[0,1\]: (1 highest trust) for all node of the polyline
+
+######xxxx-confidence:
+confidence in the root property `xxxx` ([unit][]: real)
 
  - A values in \[0,1\]: (1 highest trust) for all node of the polyline
 
