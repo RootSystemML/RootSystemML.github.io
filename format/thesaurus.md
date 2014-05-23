@@ -81,11 +81,10 @@ confidence in the root node position or other measurements such as diameter ([un
 
 The thesaurus main text is (currently) this page. In order to add an entry, the following steps should be followed:
 
- - A pull request should be created on the [RootSystemML development site][]
- - At least two members (representing two different group) should accept it
- - before acceptence, the members should inform the RSML authors.
+ - A pull request should be created on the [RSML website source][RSML_site_git]
+ - At least two members representing two different groups should accept it
+ - before acceptence, the members should inform all the RSML authors.
  
  
- 
-[RootSystemML development site]: https://github.com/RootSystemML/RootSystemML.github.io
+[RSML_site_git]: https://github.com/RootSystemML/RootSystemML.github.io
 
