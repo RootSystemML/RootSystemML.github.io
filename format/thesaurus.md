@@ -6,7 +6,7 @@ layout: default
 
 ####RSML Thesaurus
 
-RSML allows any property or functions to be defined. However, the *RSML thesaurus* provides a list of standardized property and functions which are recommended for use.
+RSML allows any property or functions to be defined. However, the *RSML thesaurus* provides a list of standardized property and functions which are recommended for use. Also, those terms should be avoided if the function or property meaning is not as described here.
 
 This thesaurus is not static and new entries can be added by the members of the [RootSystemML github organization][RSML org]. However, its content needs not be implemented by all RSML software.
 
@@ -49,9 +49,9 @@ Gives a sub category of the selected plant ontology ([unit][]: string)
 Independent count of the number of branches ([unit][]: integer)
 
 ######parent-node: (root)
-This property allows for to connect the root axes to the parent axes. More precisely, it indicates which node of the parent axe the first node of this axe is. ([unit][]: integer)
+This property allows **to connect** the root axes to the parent axes. More precisely, it indicates which node of the parent axe is actually the first node of this axe. ([unit][]: integer)
 
- - Eg: “3” means the first node is the same as the 3rd node of parent axe
+ - Eg: “3” means this axe 1st node is the same as the 3rd node of parent axe
  
 ######parent-position: (root)
 Indicates at which position on the parent axe this axe starts ([unit][]: real)
