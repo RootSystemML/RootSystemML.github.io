@@ -112,6 +112,7 @@ In both cases:
  - before acceptance, the members should inform all the RSML authors and let sufficient time for them to answer
  
 
+[Back to RSML file format](index)
  
 [unit]: units
 [wiki page]: https://github.com/RootSystemML/RootSystemML.github.io/wiki/Thesaurus
