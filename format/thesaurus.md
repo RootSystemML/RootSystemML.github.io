@@ -66,4 +66,4 @@ Indicates the confidence on the measured axe polyline ([unit][]: string or real)
 confidence in the root node position or other measurements such as diameter ([unit][]: real)
  - A values in \[0,1\]: (1 highest trust) for all node of the polyline
 
-[unit]: format/units
+[unit]: units
