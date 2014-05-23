@@ -93,17 +93,17 @@ confidence in the root property `xxxx` ([unit][]: real)
  
 #####Adding new entry to the Thesaurus
 
-The thesaurus main text is (currently) this page. In order to add an entry, the two methods can be followed depending on the membership.
+The thesaurus reference text is this page. In order to add an entry, two methods are to be followed depending on RSML authorship and membership.
 
-For the [RootSystemML][RSML org] members, a dedicated [wiki page][] has been set to discuss possible addition.
+For the authors and [RootSystemML][RSML org] members, a dedicated [wiki page][] has been set to discuss possible addition.
 
 For the others:
 
- 1. Fork of the [RSML website source][RSML_site_git]
- 2. Make the asked addition in `format/thesaurus.md` 
- 3. Make pull request to merge the fork content describing its use and scope
+ 1. Fork the [RSML website source][RSML_site_git]
+ 2. Make the requested addition in `format/thesaurus.md` 
+ 3. Do a pull request to merge the fork site describing its use and scope
  
-Or if you can contact one of the [RootSystemML][RSML org] members that you know to have him/her do the addition.
+Or you can contact one of the [RootSystemML][RSML org] members that you know to have him/her do the addition.
 
  
 In both cases:
