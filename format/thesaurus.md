@@ -6,13 +6,15 @@ layout: default
 
 ####RSML Thesaurus
 
-RSML allows any property to be defined. However, the *RSML thesaurus* provides a list of standardized property which are recommended for use.
+RSML allows any property or functions to be defined. However, the *RSML thesaurus* provides a list of standardized property and functions which are recommended for use.
 
-This list is not static and new entries can be added by the member of the [RootSystemML github organization][RSML org]. However, its content needs not be implemented by RSML software.
+This thesaurus is not static and new entries can be added by the members of the [RootSystemML github organization][RSML org]. However, its content needs not be implemented by all RSML software.
 
 [RSML org]: https://github.com/RootSystemML
 
-The following rhesaurus entries follows the format:
+
+--------
+The thesaurus entries follows the format:
 
 ######name: (scale it applies to)
 Description (unit)
@@ -20,6 +22,7 @@ Description (unit)
  - possible value: meaning
  - possible value
  - ...
+--------
 
 #####Property thesaurus:
 
