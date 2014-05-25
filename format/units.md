@@ -25,7 +25,7 @@ This section provides a list of *standard* units which are recommanded for use i
 
 Numbers:
 
-  - `boolean`: False,false,True,true,0,1
+  - `boolean`: false,true,0,1
   - `integer`: ...-1,0,1,...
   - `real`:    -3.141592, 2.71828182846
   - `string`
