@@ -79,15 +79,20 @@ Indicates the confidence on the measured axe polyline given by (automated) softw
  
 #####Function thesaurus:
 
+######diameter:
+This gives the recorded diameter at each node of the root polyline in pixel. ([unit][]: real)
+
+ - Positive values \[0,inf)
+
 ######confidence:
 confidence in the root node position of the polyline ([unit][]: real)
 
- - A values in \[0,1\]: (1 highest trust) for all node of the polyline
+ - A value in [0,1]: trust in the node postion, 1 been highest trust
 
 ######xxxx-confidence:
 confidence in the root property `xxxx` ([unit][]: real)
 
- - A values in \[0,1\]: (1 highest trust) for all node of the polyline
+ - A value in [0,1]: trust in the property value, 1 been highest trust
 
 
  
