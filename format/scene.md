@@ -15,7 +15,7 @@ layout: default
   - Plant and Root Attributes
   - Two pre-defined attributes of label and ID exist that should be understood by all software. The label is the semantic name given to a specific root in some software, the ID represents a unique identifier for that root or plant.
   - Both ID and label are optional, IDs should be generated automatically as necessary where they are not included.
-  - The po:accession attribute links to the plant ontology. They are expected to be of the form PO:$$$$$$$ where $ represents a single digit.
+  - The po:accession attribute links to the plant ontology. They are expected to be of the form PO:XXXXXXX where X represents a single digit.
 
 #####Geometry
   - The geometry node within a root represents the actual shape data, and represents the separation between topology (the nested structure of the root system defined through the XML structure) and geometry (the actual shape and size of each root).
