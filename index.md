@@ -3,6 +3,8 @@ title: RootSystemML home page
 layout: default
 ---
 
+[![RSML interoperability](../images/interoperability_h600.png)](../images/interoperability_h600.png)
+
 
 RootSystemML is a file format to represent root architectural data. It has been designed to overcome two major challenges: 
 
@@ -16,7 +18,7 @@ RSML is based on the XML standard and a xml-schema-definition (xsd) can be used 
 See [the file format page](format) for a detailed description of the features and constraints of RSML. 
 
 #####Examples
-[The examples page](examples) provides some RSML files as well as the images they have been constructed from. 
+[The examples page](examples) provides some RSML files and the images they have been constructed from. 
 
 #####Software
 The RSML format has been implemented in the following software:
