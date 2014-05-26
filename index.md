@@ -13,14 +13,14 @@ RootSystemML is a file format to represent root architectural data. It has been 
 
 RSML allows to store 2D or 3D image metadata, plant and root properties and geometries, continuous functions along individual root paths and a suite of annotations at the image, plant or root scales, at one or several time points. The plant ontologies are used to describe botanical entities that are relevant at the scale of root system architecture. 
 
-#####File format
+#####The file format
 RSML is based on the XML standard and a xml-schema-definition (xsd) can be used to validate the validity of an RSML file.
 See [the file format page](format) for a detailed description of the features and constraints of RSML. 
 
 #####Examples
 [The examples page](examples) provides some RSML files and the images they have been constructed from. 
 
-#####Software
+#####Supported software
 The RSML format has been implemented in the following software:
 
  - [SmartRoot](http://www.uclouvain.be/en-smartroot)
