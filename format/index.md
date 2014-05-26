@@ -9,8 +9,8 @@ The **RSML** file format is made of two main parts: the *metadata* and the *scen
 
  - [See the definition of the metadata section](metadata)
  - [See the definition of the scene section](scene)
- - [See the list of standard units of rsml](units)
  - [See the thesaurus of standardized properties and functions](thesaurus)
+ - [See the list of standard units of rsml](units)
  
 [Back to RSML home](../index)
 
