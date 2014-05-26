@@ -76,7 +76,8 @@ Indicates the confidence on the measured axe polyline given by (automated) softw
  - A value in [0,1]: trust in the tracing, 1 been highest trust
 
 
- 
+________ 
+
 #####Function thesaurus:
 
 ######diameter:
@@ -95,7 +96,8 @@ confidence in the root property `xxxx` ([unit][]: real)
  - A value in [0,1]: trust in the property value, 1 been highest trust
 
 
- 
+________ 
+
 #####Adding new entry to the Thesaurus
 
 The thesaurus reference text is this page. In order to add an entry, two methods are to be followed depending on RSML authorship and membership.
