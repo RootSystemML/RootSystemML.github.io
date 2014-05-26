@@ -3,14 +3,14 @@ title: Standard format for RSA
 layout: default
 ---
 
-[![RSML format schema](../images/format.png)](../images/format.png)
+[![RSML format schema](/images/format.png)](/images/format.png)
 
 The **RSML** file format is made of two main parts: the *metadata* and the *scene*:
 
- - [See the definition of the metadata section](metadata)
- - [See the definition of the scene section](scene)
- - [See the thesaurus of standardized properties and functions](thesaurus)
- - [See the list of standard units of rsml](units)
+ - [Metadata](metadata)
+ - [Scene](scene)
+ - [Thesaurus](thesaurus)
+ - [Units in rsml](units)
  
-[Back to RSML home](../index)
+[Back to RSML home](/index)
 
