@@ -6,20 +6,20 @@ layout: default
 ####The RSML metadata
 
 ```
-    <metadata>
-        <version>1</version>
-        <unit>pixel</unit>
-        <resolution>1</resolution>
-        <last-modified>2014-02-20T00:00:00</last-modified>
-        <software>RSML-example</software>
-        <user>RSML-team</user>
-        <file-key>RSML-metadata-example</file-key>
-        <image>
-            <name>name_of_image_file</name>
-            <captured>2014-02-19T00:00:00</captured>
-            <sha256>XXXXXXXXX</sha256>
-        </image>
-    </metadata>
+<metadata>
+    <version>1</version>
+    <unit>pixel</unit>
+    <resolution>1</resolution>
+    <last-modified>2014-02-20T00:00:00</last-modified>
+    <software>RSML-example</software>
+    <user>RSML-team</user>
+    <file-key>RSML-metadata-example</file-key>
+    <image>
+        <name>name_of_image_file</name>
+        <captured>2014-02-19T00:00:00</captured>
+        <sha256>XXXXXXXXX</sha256>
+    </image>
+</metadata>
 ```
 
 #####version
