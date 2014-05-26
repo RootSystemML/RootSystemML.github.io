@@ -28,12 +28,12 @@ where `yyyy` is the year, `mm` is the month, `dd` is the day, `hh` is the hour (
 
 #####Measurements:
 
-  - `m`: meter
-  - `cm`: centimeter
-  - `mm`: millimeter
-  - `um`: micrometer
-  - `nm`: nanometer
   - `pixel`
+  - `m`  or `meter`
+  - `cm` or `centimeter`
+  - `mm` or `millimeter`
+  - `um` or  `micrometer`
+  - `nm` or `nanometer`
      
   
 [Back to RSML file format](index)
