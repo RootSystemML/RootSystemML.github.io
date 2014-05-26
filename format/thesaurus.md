@@ -6,9 +6,9 @@ layout: default
 
 ####RSML Thesaurus
 
-RSML allows any property or functions to be defined. However, the *RSML thesaurus* provides a list of standardized property and functions which are recommended for use. Also, those terms should be avoided if the function or property meaning is not as described here.
+RSML allows any property or function to be defined. However, the *RSML thesaurus* provides a list of standardized property and function which are recommended for use. Also, those terms should be avoided if the function or property meaning is not as described here.
 
-This thesaurus is not static and new entries can be added by the RSML format autors and the members of the [RootSystemML github organization][RSML org] through the [indicated open-source protocol][new-entries]. However, the thesaurus content needs not be implemented by all RSML software.
+This thesaurus is not static and new entries can be added by the RSML format autors and the members of the [RootSystemML organization][RSML org] through the [indicated open-source protocol][new-entries]. However, the thesaurus content needs not be implemented by all RSML software.
 
 
 [new-entries]: #adding-new-entry-to-the-thesaurus
