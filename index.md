@@ -15,6 +15,7 @@ RSML allows to store 2D or 3D image metadata, plant and root properties and geom
 
 #####The file format
 RSML is based on the XML standard. It can store:
+
  - 2D or 3D image metadata
  - Plant and root properties and geometries
  - Continuous functions along individual root paths
