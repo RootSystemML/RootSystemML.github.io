@@ -34,7 +34,7 @@ A simple root architecture which contains 1 primary root, 3 first order laterals
     </li->
   {% endfor %}
 </ul-->
-  {% for page in site.pages %}         
+  {% for page in {{ site.pages | where:"category","example" }} %}         
   <p class="example_block">
   <a href="{{ page.url }}"> {{ page.title }} </a>
   </p>
