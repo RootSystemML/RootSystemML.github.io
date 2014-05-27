@@ -47,7 +47,7 @@ A simple root architecture which contains 1 primary root, 3 first order laterals
   
   {% if page.tags contains 'example' %}
   
-  {{ page.tags
+  {{ page.tags }}
   
   {% endif %}
   
