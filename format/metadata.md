@@ -5,7 +5,7 @@ layout: default
 
 ####The RSML metadata
 
-{% highlight ruby %}
+{% highlight xml %}
 <metadata>
     <version>1</version>
     <unit>pixel</unit>
