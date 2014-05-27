@@ -36,17 +36,18 @@ A simple root architecture which contains 1 primary root, 3 first order laterals
 
   {{ site.pages | where:"category","example" }} %}
   
-</ul-->
-
-  {% for page in site.pages %}
-  
-  {% if page.categories contains 'example' %}
-  
   This qsdqsd
   
   <p class="example_block">
   <a href="{{ page.url }}"> {{ page.title }} </a>
   </p>
+</ul-->
+
+  {% for page in site.pages %}
+  
+  {% if page.tags contains 'example' %}
+  
+  {{ page.tags
   
   {% endif %}
   
