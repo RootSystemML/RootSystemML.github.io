@@ -38,7 +38,7 @@ A simple root architecture which contains 1 primary root, 3 first order laterals
   
 </ul-->
 
-  {% for page in site.pages %}         
+  {% for page in site.pages %}
   
   {% if page.categories contains 'example' %}
   
