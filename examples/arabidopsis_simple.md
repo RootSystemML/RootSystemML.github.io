@@ -1,5 +1,5 @@
 ---
-title: RSML Examples
+title: Arabidopsis simple
 layout: default
 category: example
 tags: example
