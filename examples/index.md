@@ -9,7 +9,7 @@ RSML allows to store a variety of content. The basic data contained in an RSML f
 
 ####*"Arabidopsis simple"* example
 
-[![arabidopsis-simple](images/examples/arabidopsis_simple_tb.jpg)](images/examples/arabidopsis_simple.tif)
+[![arabidopsis-simple](/images/examples/arabidopsis_simple_tb.jpg)](images/examples/arabidopsis_simple.tif)
 A simple root architecture which contains 1 primary root, 3 first order laterals and 1 second order lateral. Three rsml files are provided.
 
 
