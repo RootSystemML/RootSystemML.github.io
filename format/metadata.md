@@ -5,7 +5,7 @@ layout: default
 
 ####The RSML metadata
 
-~~~xml
+{% highlight ruby %}
 <metadata>
     <version>1</version>
     <unit>pixel</unit>
@@ -20,8 +20,7 @@ layout: default
         <sha256>XXXXXXXXX</sha256>
     </image>
 </metadata>
-~~~
-    
+{% endhighlight %}    
     
 #####version
   - Upon publication the agreed format will be version 1.0. Any additional versioning will be agreed upon by all software developers, since all software will be required to handle the changes
