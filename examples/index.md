@@ -18,7 +18,7 @@ A simple root architecture which contains 1 primary root, 3 first order laterals
   - [Download the RSML file with additional annotation](images/examples/arabidopsis_simple_annotation.rsml)
 
 <!--ul>
-  {% for post in site.posts %}         
+  % for post in site.posts %}         
   <p class="example_block">
   <a href="http://team.inria.fr/virtualplants/christophe-godin/">
   <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Smiley.svg/800px-Smiley.svg.png" alt="Smiley face" height="42" width="42">
@@ -34,7 +34,7 @@ A simple root architecture which contains 1 primary root, 3 first order laterals
     </li->
   {% endfor %}
 
-  {{ site.pages | where:"category","example" }} %}
+  { site.pages | where:"category","example" }} %}
   
   This qsdqsd
   
