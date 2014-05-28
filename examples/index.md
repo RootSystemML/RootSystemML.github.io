@@ -28,4 +28,4 @@ RSML allows to store a variety of content. The basic data contained in an RSML f
   
   {% endfor %}
 
-[Back to RSML home](index)
+[RSML home](index)
