@@ -10,10 +10,6 @@ RSML allows to store a variety of content. The basic data contained in an RSML f
 
 [comment]: #list all page with tags "example"
 
-  {% assign pages = site.pages | sort: 'date' %}
-
-  pages:
-  
   {{ pages }}
   
   {% for page in site.pages reversed %}
