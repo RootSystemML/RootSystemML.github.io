@@ -49,7 +49,7 @@ The RSML format was born from a collaboration between:
  - [Guillaume Lobet](), Université de Liège
  - [Philipe Nacry](), INRA
  - [Mike Pound](), University of Nottingham
- - [Christophe Pradal](), INRIA
+ - [Christophe Pradal](), CIRAD
  - [Tony Pridmore](), University of Nottingham
  - [Andrea Schnepf](), Forschungszentrum Juelich 
 
