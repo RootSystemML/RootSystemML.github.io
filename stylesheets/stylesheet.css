@@ -436,9 +436,9 @@ div.example_block{
   border-style:solid;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
-  border-width:3px;
+  border-width:1px;
   border-color:#909090;
-  background-color:#DDD;
+  background-color:#212121;
   overflow:hidden;
   padding: 5px 5px 5px 50px;
   -webkit-box-shadow: rgba(0,0,0,0.5) 1px 1px 3px;
