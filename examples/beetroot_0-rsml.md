@@ -3,9 +3,7 @@ title: beetroot
 layout: default
 ---
 
-[Download the rsml file](/images/examples/beeroot_0.rsml)
-
-[Download the input image](/images/examples/beetroot_0.png)
+[Download the rsml file](/images/examples/beetroot_0.rsml)
 
 {% highlight xml %}
 <?xml version="1.0" encoding="UTF-8"?>
