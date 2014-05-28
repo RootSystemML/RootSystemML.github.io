@@ -24,7 +24,8 @@ A simple root architecture which contains 1 primary root, 3 first order laterals
   {% if page.tags contains 'example' %}
   
   <p class="example_block" markdown="1">
-  #####[{{ page.title }}][{{ page.url }}]
+  
+  [{{ page.title }}][{{ page.url }}]
   
   - yoyo
   - yiyi
