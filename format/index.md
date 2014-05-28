@@ -11,7 +11,7 @@ The **RSML** file format is made of two main parts: the *metadata* and the *scen
  - [Scene](scene)
  - [Thesaurus](thesaurus)
  - [Units in rsml](units)
- - [XML Scheme definition](https://raw.githubusercontent.com/RootSystemML/RSMLValidator/master/rsml.xsd)
+ - [XML Schema definition](https://raw.githubusercontent.com/RootSystemML/RSMLValidator/master/rsml.xsd)
  
 [Back to RSML home](/index)
 
