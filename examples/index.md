@@ -17,7 +17,7 @@ A simple root architecture which contains 1 primary root, 3 first order laterals
   - [Download the RSML file with diameter](images/examples/arabidopsis_simple_with_diameter.rsml)
   - [Download the RSML file with additional annotation](images/examples/arabidopsis_simple_annotation.rsml)
 
- c
+ d
   
   {% for page in site.pages %}
   
@@ -25,7 +25,7 @@ A simple root architecture which contains 1 primary root, 3 first order laterals
   
   <p class="example_block" markdown="1">
   
-  [{{ page.title }}][{{ page.url }}]
+  [{{ page.title }}]({{ page.url }})
   
   - yoyo
   - yiyi
