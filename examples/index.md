@@ -20,7 +20,7 @@ RSML allows to store a variety of content. The basic data contained in an RSML f
   
   <h5 markdown="1"> [{{ page.title }}]({{ page.url }}) </h5>
   
-  {{ page.content }}  
+  {{ page.content }}
   
   </div>
   
@@ -28,4 +28,4 @@ RSML allows to store a variety of content. The basic data contained in an RSML f
   
   {% endfor %}
 
-[RSML home](index)
+[Back to RSML home](index)
