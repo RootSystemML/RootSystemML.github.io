@@ -23,8 +23,8 @@ A simple root architecture which contains 1 primary root, 3 first order laterals
   
   {% if page.tags contains 'example' %}
   
-  <-p class="example_block" markdown="1">
-  <a href="{{ page.url }}"> <h5> {{ page.title }} </h5> </a>
+  <p class="example_block" markdown="1">
+  <h5> <a href="{{ page.url }}"> {{ page.title }} </a> </h5>
   
   <ul>
   <li><a href="images/examples/arabidopsis_simple.rsml">Download the RSML file with geometry and topology only</a></li>
