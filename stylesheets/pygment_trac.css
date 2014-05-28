@@ -1,5 +1,5 @@
 .highlight .hll { background-color: #ffffcc }
-.highlight  { background: #f0f3f3; font-size:80% }
+.highlight  { background: #f0f3f3; font-size:30% }
 .highlight .c { color: #0099FF; font-style: italic } /* Comment */
 .highlight .err { color: #AA0000; background-color: #FFAAAA } /* Error */
 .highlight .k { color: #006699; font-weight: bold } /* Keyword */
@@ -36,7 +36,7 @@
 .highlight .nf { color: #CC00FF } /* Name.Function */
 .highlight .nl { color: #9999FF } /* Name.Label */
 .highlight .nn { color: #00CCFF; font-weight: bold } /* Name.Namespace */
-.highlight .nt { color: #330033; font-weight: bold } /* Name.Tag */
+.highlight .nt { color: #330099; font-weight: bold } /* Name.Tag */
 .highlight .nv { color: #003333 } /* Name.Variable */
 .highlight .ow { color: #000000; font-weight: bold } /* Operator.Word */
 .highlight .w { color: #bbbbbb } /* Text.Whitespace */
