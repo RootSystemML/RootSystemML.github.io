@@ -432,7 +432,7 @@ Small Device Styles
 /*******************************************************************************
 Example item css 
 *******************************************************************************/
-p.example_block{
+div.example_block{
   border-style:solid;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
@@ -445,7 +445,7 @@ p.example_block{
   -moz-box-shadow: rgba(0,0,0,0.5) 1px 1px 3px;
   box-shadow: rgba(0,0,0,0.5) 1px 1px 3px;
 }
-p.example_block img{
+div.example_block img{
   float:left;
   position:absolute;
   margin: 5px 5px 5px -45px;
