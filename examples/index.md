@@ -24,13 +24,10 @@ A simple root architecture which contains 1 primary root, 3 first order laterals
   {% if page.tags contains 'example' %}
   
   <p class="example_block" markdown="1">
-  <h5> <a href="{{ page.url }}"> {{ page.title }} </a> </h5>
+  #####[{{ page.title }}][{{ page.url }}]
   
-  <ul>
-  <li><a href="images/examples/arabidopsis_simple.rsml">Download the RSML file with geometry and topology only</a></li>
-  <li><a href="images/examples/arabidopsis_simple_with_diameter.rsml">Download the RSML file with diameter</a></li>
-  <li><a href="images/examples/arabidopsis_simple_annotation.rsml">Download the RSML file with additional annotation</a></li>
-  </ul>
+  - yoyo
+  - yiyi
 
   {{ page.content }}  
   
