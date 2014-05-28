@@ -14,7 +14,7 @@ RSML allows to store a variety of content. The basic data contained in an RSML f
 
   {{ pages }}
   
-  {% for page in site.pages reversed %}
+  {% for page in site.pages sort_by:title order:ascending %}
   
   {% if page.tags contains 'example' %}
   
