@@ -27,7 +27,7 @@
   </metadata>
   <scene>
     <plant id="1" label="P">
-      <root id="2" label="A">
+      <root id="2" label="A" po:accession="PO:0020127">
         <geometry>
           <polyline>
             <point x="467.0" y="81.5" z="0"/>
@@ -82,7 +82,7 @@
             <software>smartroot</software>
           </annotation>
         </annotations>        
-        <root id="14" label="A">
+        <root id="14" label="A" po:accession="PO:0020121">
           <properties>
             <parent-node value="3"/>
           </properties>
@@ -109,7 +109,7 @@
             </function>
           </functions>          
         </root>
-        <root id="27" label="A">
+        <root id="27" label="A" po:accession="PO:0020121">
           <properties>
             <parent-node value="9"/>
           </properties>
