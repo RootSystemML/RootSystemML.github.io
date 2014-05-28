@@ -25,7 +25,7 @@ A simple root architecture which contains 1 primary root, 3 first order laterals
   
   <div class="example_block" markdown="1">
   
-  #####[{{ page.title }}]({{ page.url }})
+  <h5 markdown="1"> [{{ page.title }}]({{ page.url }}) </h5>
   
   {{ page.content }}  
   
