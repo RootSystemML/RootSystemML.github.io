@@ -440,7 +440,7 @@ div.example_block{
   border-color:#909090;
   background-color:#EEE;
   overflow:hidden;
-  padding: 5px 5px 5px 105px;
+  padding: 5px 5px 5px 110px;
   -webkit-box-shadow: rgba(0,0,0,0.5) 1px 1px 3px;
   -moz-box-shadow: rgba(0,0,0,0.5) 1px 1px 3px;
   box-shadow: rgba(0,0,0,0.5) 1px 1px 3px;
@@ -451,4 +451,5 @@ div.example_block img{
   margin: 5px 5px 5px -100px;
   border-color:#FFF;
   border-width:5px;
+  width:100px
 }
