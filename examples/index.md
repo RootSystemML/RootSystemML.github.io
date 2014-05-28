@@ -8,7 +8,10 @@ This page provides a set of example rsml files as well as the images the root ar
 RSML allows to store a variety of content. The basic data contained in an RSML file is the topology and geometry of root system architecture. It can also stored additional data such as the root type (from Plant Ontology), the root diameter and annotations.
 
 
-[comment]: #list all page with tags "example"
+[comment]: #list all page with tags "example" using liquid markup
+[comment]: #each such page should have a xxx_tn.png image file in
+[comment]: #the images/examples folder, and xxx is the page title
+
 
   {{ pages }}
   
@@ -18,7 +21,7 @@ RSML allows to store a variety of content. The basic data contained in an RSML f
   
   <div class="example_block" markdown="1">
   
-  <img href="/images/examples/{{ page.title }}.png" src="/images/examples/{{ page.title }}_tn.png">
+  <img src="/images/examples/{{ page.title }}_tn.png">
   
   <h5 markdown="1"> [{{ page.title }}]({{ page.url }}) </h5>
   
