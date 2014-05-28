@@ -9,8 +9,8 @@ RSML allows to store a variety of content. The basic data contained in an RSML f
 
 [//]: # (This is a comment, it will not be included)
                  
-[comment]: <> (list pages with tags "example" using liquid markup)
-[comment]: <> (each page should have a xxx_tn.png image file in)
+[//]: <> (list pages with tags "example" using liquid markup)
+[//]: # (each page should have a xxx_tn.png image file in)
 [comment]: <> (images/examples folder, with xxx the page title)
 
 
