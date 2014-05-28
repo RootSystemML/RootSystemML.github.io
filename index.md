@@ -39,4 +39,17 @@ The RSML format has been implemented in the following software:
 
 [comment]: # ([See the supporting software page for more details](software))
 
+#####People
+The RSML format was born from a collaboration between:
+
+ - [Julien Diener](), INRIA
+ - [Xavier Draye](), Université catholique de Louvain
+ - [Christophe Godin](), INRIA
+ - [Daniel Leitner](), University of Vienna
+ - [Guillaume Lobet](), Université de Liège
+ - [Philipe Nacry](), INRA
+ - [Mike Pound](), University of Nottingham
+ - [Christophe Pradal](), INRIA
+ - [Tony Pridmore](), University of Nottingham
+ - [Andrea Schnepf](), Forschungszentrum Juelich 
 
