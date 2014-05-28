@@ -15,7 +15,7 @@ b
 
   {{ pages }}
   
-  {% for page in site.pages sort_by:title order:ascending %}
+  {% for page in site.pages sort_by:date order:ascending %}
   
   {% if page.tags contains 'example' %}
   
