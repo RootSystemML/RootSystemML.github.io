@@ -25,7 +25,7 @@ A simple root architecture which contains 1 primary root, 3 first order laterals
   
   <p class="example_block">
   <a href="{{ page.url }}"> {{ page.title }} </a>
-  
+  {{ page.content }}  
   </p>
   
   {% endif %}
