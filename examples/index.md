@@ -11,8 +11,6 @@ RSML allows to store a variety of content. The basic data contained in an RSML f
 [//]: # (each page should have a xxx_tn.png image file in)
 [//]: # (images/examples folder, with xxx the page title)
 
-b
-
   {{ pages }}
   
   {% for page in site.pages sort_by:date order:ascending %}
