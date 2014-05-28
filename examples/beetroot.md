@@ -13,6 +13,6 @@ A 2 steps time-serie of a root architecture containing contains one growing prim
 
   
 [diameter]: /format/thesaurus#diameter
-[parent-node]: /format/thesaurus#parent-node
+[parent-node]: /format/thesaurus#parent-node-(root)
 [annotations]: /foramt/scene#annotations
 
