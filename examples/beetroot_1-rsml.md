@@ -8,6 +8,7 @@ layout: default
 {% highlight xml %}
 <?xml version="1.0" encoding="UTF-8"?>
 <rsml xmlns:po="http://www.plantontology.org/xml-dtd/po.dtd">
+
   <metadata>
     <version>1.0</version>
     <unit>pixel</unit>
@@ -33,6 +34,7 @@ layout: default
       </property-definition>
     </property-definitions>
   </metadata>
+  
   <scene>
     <plant id="1" label="P">
       <root id="2" label="A" po:accession="PO:0020127">
