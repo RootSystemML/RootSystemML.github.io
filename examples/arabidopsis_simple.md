@@ -1,7 +1,7 @@
 ---
 title: Arabidopsis simple
 layout: default
-tags: example
+category: example
 image:/image/example/arabidopsis_simple_tn.png
 ---
 
