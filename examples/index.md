@@ -19,10 +19,6 @@ b
   
   {% if page.tags contains 'example' %}
   
-  {{ page.id }}
-  {{ page.title }}
-  {{ page.date }}
-  
   <div class="example_block" markdown="1">
   
   <img src="/images/examples/{{ page.title }}_tn.png">
