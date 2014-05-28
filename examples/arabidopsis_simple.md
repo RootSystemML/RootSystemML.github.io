@@ -1,8 +1,8 @@
 ---
 title: Arabidopsis simple
 layout: default
-category: example
 tags: example
+image:/image/example/arabidopsis_simple_tn.png
 ---
 
 A simple root architecture which contains 1 primary root, 3 first order laterals and 1 second order lateral. Three rsml files are provided.
