@@ -19,7 +19,7 @@ RSML allows to store a variety of content. The basic data contained in an RSML f
   
   <img src="/images/examples/{{ page.title }}_tn.png">
   
-  <h5 id="{{ page.title }}" markdown="1"> []({{ page.url }}) </h5>
+  <h5 id="{{ page.title }}" markdown="1"> [{{ page.title }}]({{ page.url }}) </h5>
   
   {{ page.content }}
   
