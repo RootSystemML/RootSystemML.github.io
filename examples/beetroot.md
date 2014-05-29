@@ -11,10 +11,10 @@ A 2 steps time-serie of a root architecture containing one growing primary root 
   - Input images: [at time 0][img0] and [at time 1][img1]
   - RSML files: [at time 0][rsml0] and [at time 0][rsml1]
   
-[img0](/images/examples/beetroot_0.png)  
-[img1](/images/examples/beetroot_1.png)  
-[rsml0](beetroot_0-rsml)
-[rsml1](beetroot_1-rsml)
+[img0]: /images/examples/beetroot_0.png  
+[img1]: /images/examples/beetroot_1.png  
+[rsml0]: beetroot_0-rsml
+[rsml1]: beetroot_1-rsml
 
 [diameter]: /format/thesaurus#diameter
 [parent-node]: /format/thesaurus#parent-node-root
