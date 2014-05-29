@@ -4,18 +4,18 @@
 		<version>1</version>
 		<unit>pixel</unit>
 		<resolution>1</resolution>
-		<last-modified>2014-02-20</last-modified>
+		<last-modified>2014-02-20T00:00:00</last-modified>
 		<software>smartroot</software>
 		<user>diener</user>
-		<file-key>RSML-example:basal_bean</file-key>
+		<file-key>RSML-example:basal-bean</file-key>
 		<image>
-			<captured>2014-02-19</captured>
-			<label>basal_bean</label>
+			<captured>2014-02-19T00:00:00</captured>
+			<label>basal-bean.png</label>
 		</image>
 	</metadata>
 	<scene>
-		<plant ID="1" label="bean_with_basal">
-			<root ID="e5e4ac39-1efa-40a5-9976-2a748430163b" label="basal_1" po:accession="PO:0025002">
+		<plant id="1" label="bean_with_basal">
+			<root id="e5e4ac39-1efa-40a5-9976-2a748430163b" label="basal_1" po:accession="PO:0025002">
 				<geometry>
 					<polyline>
 					<point x="282.62842" y="311.55078" />
@@ -52,7 +52,7 @@
 						<sample value="5.410647" />
 					</function>
 				</functions>
-			<root ID="d3e0b4e3-2a84-43fa-9397-3042085fd4e9" label="basal_1_lat" po:accession="PO:0020121">
+			<root id="d3e0b4e3-2a84-43fa-9397-3042085fd4e9" label="basal_1_lat" po:accession="PO:0020121">
 				<geometry>
 					<polyline>
 					<point x="173.85135" y="349.85574" />
@@ -85,7 +85,7 @@
 				</functions>
  </root>
  </root>
-			<root ID="ac73edbd-d3c1-4da4-b34d-32b3ea50be54" label="primary" po:accession="PO:0020127">
+			<root id="ac73edbd-d3c1-4da4-b34d-32b3ea50be54" label="primary" po:accession="PO:0020127">
 				<geometry>
 					<polyline>
 					<point x="316.01834" y="397.2486" />
@@ -158,7 +158,7 @@
 						<sample value="5.9925656" />
 					</function>
 				</functions>
-			<root ID="b7ce653d-c6aa-450e-9345-52f3925023ca" label="lat_5" po:accession="PO:0020121">
+			<root id="b7ce653d-c6aa-450e-9345-52f3925023ca" label="lat_5" po:accession="PO:0020121">
 				<geometry>
 					<polyline>
 					<point x="279.54507" y="732.63727" />
@@ -210,7 +210,7 @@
 					</function>
 				</functions>
  </root>
-			<root ID="7d3fd067-80ee-4517-ac6f-b4e124b5ee59" label="lat_4" po:accession="PO:0020121">
+			<root id="7d3fd067-80ee-4517-ac6f-b4e124b5ee59" label="lat_4" po:accession="PO:0020121">
 				<geometry>
 					<polyline>
 					<point x="327.08508" y="677.3236" />
@@ -244,7 +244,7 @@
 					</function>
 				</functions>
  </root>
-			<root ID="aeeb724c-2301-4a4a-9b1c-8529a3783aad" label="lat_3" po:accession="PO:0020121">
+			<root id="aeeb724c-2301-4a4a-9b1c-8529a3783aad" label="lat_3" po:accession="PO:0020121">
 				<geometry>
 					<polyline>
 					<point x="281.8419" y="630.38794" />
@@ -294,7 +294,7 @@
 					</function>
 				</functions>
  </root>
-			<root ID="d3d6433f-9624-4205-8ee3-e6302a422eb3" label="lat_2" po:accession="PO:0020121">
+			<root id="d3d6433f-9624-4205-8ee3-e6302a422eb3" label="lat_2" po:accession="PO:0020121">
 				<geometry>
 					<polyline>
 					<point x="326.4432" y="553.25653" />
@@ -325,7 +325,7 @@
 						<sample value="3.9997575" />
 					</function>
 				</functions>
-			<root ID="b74d8fd9-ace5-46d4-8a06-c3d7ed9c07ae" label="sublat_2" po:accession="PO:0020121">
+			<root id="b74d8fd9-ace5-46d4-8a06-c3d7ed9c07ae" label="sublat_2" po:accession="PO:0020121">
 				<geometry>
 					<polyline>
 					<point x="410.37836" y="550.3893" />
@@ -348,7 +348,7 @@
 				</functions>
  </root>
  </root>
-			<root ID="74a62056-c1c1-4db7-a562-b133881f925c" label="lat_1" po:accession="PO:0020121">
+			<root id="74a62056-c1c1-4db7-a562-b133881f925c" label="lat_1" po:accession="PO:0020121">
 				<geometry>
 					<polyline>
 					<point x="298.33228" y="523.3186" />
@@ -375,7 +375,7 @@
 						<sample value="5.4271097" />
 					</function>
 				</functions>
-			<root ID="27fa6c6a-fc3b-4968-a278-68035f5415b1" label="sublat_1" po:accession="PO:0020121">
+			<root id="27fa6c6a-fc3b-4968-a278-68035f5415b1" label="sublat_1" po:accession="PO:0020121">
 				<geometry>
 					<polyline>
 					<point x="221.50143" y="542.24817" />
@@ -399,7 +399,7 @@
  </root>
  </root>
  </root>
-			<root ID="b333204e-cfd7-4714-b924-9cd7a35c1a14" label="basal_2" po:accession="PO:0025002">
+			<root id="b333204e-cfd7-4714-b924-9cd7a35c1a14" label="basal_2" po:accession="PO:0025002">
 				<geometry>
 					<polyline>
 					<point x="282.1767" y="271.5537" />
@@ -433,7 +433,7 @@
 					</function>
 				</functions>
  </root>
-			<root ID="8bd133a8-00a8-46e6-83e7-5874cfe6d72e" label="basal_3" po:accession="PO:0025002">
+			<root id="8bd133a8-00a8-46e6-83e7-5874cfe6d72e" label="basal_3" po:accession="PO:0025002">
 				<geometry>
 					<polyline>
 					<point x="337.56927" y="274.64676" />
@@ -460,7 +460,7 @@
 						<sample value="6.4980316" />
 					</function>
 				</functions>
-			<root ID="30cfaea1-db82-4285-9b43-e824397b31dc" label="basal_3_lat" po:accession="PO:0020121">
+			<root id="30cfaea1-db82-4285-9b43-e824397b31dc" label="basal_3_lat" po:accession="PO:0020121">
 				<geometry>
 					<polyline>
 					<point x="464.2912" y="250.07153" />
@@ -481,7 +481,7 @@
 				</functions>
  </root>
  </root>
-			<root ID="2b4bb064-5d13-490b-bc19-50798eb0b208" label="basal_4" po:accession="PO:0025002">
+			<root id="2b4bb064-5d13-490b-bc19-50798eb0b208" label="basal_4" po:accession="PO:0025002">
 				<geometry>
 					<polyline>
 					<point x="332.3519" y="334.15204" />
@@ -512,7 +512,7 @@
 						<sample value="3.4901407" />
 					</function>
 				</functions>
-			<root ID="7de0f993-7942-4490-a635-31264e0a027c" label="basal_4_lat" po:accession="PO:0020121">
+			<root id="7de0f993-7942-4490-a635-31264e0a027c" label="basal_4_lat" po:accession="PO:0020121">
 				<geometry>
 					<polyline>
 					<point x="469.92627" y="330.23865" />
