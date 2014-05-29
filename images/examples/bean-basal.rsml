@@ -1,0 +1,540 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rsml xmlns:po="http://www.plantontology.org/xml-dtd/po.dtd">
+	<metadata>
+		<version>1</version>
+		<unit>pixel</unit>
+		<resolution>1</resolution>
+		<last-modified>2014-02-20</last-modified>
+		<software>smartroot</software>
+		<user>diener</user>
+		<file-key>RSML-example:basal_bean</file-key>
+		<image>
+			<captured>2014-02-19</captured>
+			<label>basal_bean</label>
+		</image>
+	</metadata>
+	<scene>
+		<plant ID="1" label="bean_with_basal">
+			<root ID="e5e4ac39-1efa-40a5-9976-2a748430163b" label="basal_1" po:accession="PO:0025002">
+				<geometry>
+					<polyline>
+					<point x="282.62842" y="311.55078" />
+					<point x="263.9475" y="316.29245" />
+					<point x="242.86157" y="320.85077" />
+					<point x="217.5935" y="325.54346" />
+					<point x="189.34003" y="329.5332" />
+					<point x="164.78448" y="335.36212" />
+					<point x="134.63934" y="344.80618" />
+					<point x="117.3271" y="350.48062" />
+					<point x="96.72718" y="356.90244" />
+					<point x="81.779785" y="367.81598" />
+					<point x="63.160416" y="375.21918" />
+					<point x="52.110382" y="379.8816" />
+					<point x="41.054195" y="384.5466" />
+					<point x="31.21909" y="387.99902" />
+					</polyline>
+				</geometry>
+				<functions>
+					<function domain="polyline" name="diameter">
+						<sample value="19.978962" />
+						<sample value="20.99553" />
+						<sample value="19.493488" />
+						<sample value="19.494179" />
+						<sample value="16.94721" />
+						<sample value="15.218232" />
+						<sample value="9.144661" />
+						<sample value="10.000219" />
+						<sample value="10.000219" />
+						<sample value="10.000219" />
+						<sample value="6.0000267" />
+						<sample value="6.000034" />
+						<sample value="6.500059" />
+						<sample value="5.410647" />
+					</function>
+				</functions>
+			<root ID="d3e0b4e3-2a84-43fa-9397-3042085fd4e9" label="basal_1_lat" po:accession="PO:0020121">
+				<geometry>
+					<polyline>
+					<point x="173.85135" y="349.85574" />
+					<point x="165.27179" y="359.45096" />
+					<point x="157.88016" y="370.34216" />
+					<point x="150.01817" y="381.9264" />
+					<point x="142.31172" y="392.3914" />
+					<point x="134.7062" y="400.62442" />
+					<point x="127.64507" y="409.00043" />
+					<point x="120.76293" y="417.54956" />
+					<point x="113.0377" y="426.7476" />
+					<point x="108.6108" y="433.54184" />
+					<point x="103.27443" y="440.21338" />
+					</polyline>
+				</geometry>
+				<functions>
+					<function domain="polyline" name="diameter">
+						<sample value="6.5000143" />
+						<sample value="6.5000143" />
+						<sample value="7.0000916" />
+						<sample value="6.499921" />
+						<sample value="5.4998765" />
+						<sample value="5.4998765" />
+						<sample value="5.5000668" />
+						<sample value="5.999965" />
+						<sample value="5.000019" />
+						<sample value="6.499941" />
+						<sample value="5.1219206" />
+					</function>
+				</functions>
+ </root>
+ </root>
+			<root ID="ac73edbd-d3c1-4da4-b34d-32b3ea50be54" label="primary" po:accession="PO:0020127">
+				<geometry>
+					<polyline>
+					<point x="316.01834" y="397.2486" />
+					<point x="317.0255" y="440.86432" />
+					<point x="315.97614" y="487.1536" />
+					<point x="314.62073" y="535.9147" />
+					<point x="311.43945" y="580.4641" />
+					<point x="307.29285" y="630.36816" />
+					<point x="305.59683" y="675.98706" />
+					<point x="303.45883" y="706.66345" />
+					<point x="302.60358" y="733.4536" />
+					<point x="301.511" y="760.42267" />
+					<point x="300.45688" y="783.5049" />
+					<point x="299.90497" y="800.4796" />
+					<point x="298.64673" y="822.40686" />
+					<point x="298.03235" y="837.3894" />
+					<point x="297.23383" y="852.729" />
+					<point x="295.36768" y="870.8988" />
+					<point x="294.35657" y="888.7551" />
+					<point x="295.22473" y="912.7482" />
+					<point x="295.8789" y="937.74164" />
+					<point x="297.25537" y="961.6865" />
+					<point x="297.17987" y="980.71344" />
+					<point x="298.87292" y="994.36426" />
+					<point x="298.6359" y="1004.60077" />
+					<point x="298.38126" y="1015.59796" />
+					<point x="299.62076" y="1026.4623" />
+					<point x="299.18973" y="1038.6787" />
+					<point x="300.17737" y="1046.0536" />
+					<point x="302.7846" y="1059.8901" />
+					<point x="306.12277" y="1073.5686" />
+					<point x="309.91058" y="1112.6355" />
+					<point x="312.5195" y="1143.3796" />
+					<point x="317.0096" y="1167.0784" />
+					</polyline>
+				</geometry>
+				<functions>
+					<function domain="polyline" name="diameter">
+						<sample value="25.47655" />
+						<sample value="23.812979" />
+						<sample value="24.386654" />
+						<sample value="23.000021" />
+						<sample value="24.362488" />
+						<sample value="24.872389" />
+						<sample value="22.992767" />
+						<sample value="22.398499" />
+						<sample value="22.493143" />
+						<sample value="22.499657" />
+						<sample value="21.441553" />
+						<sample value="20.398014" />
+						<sample value="17.45114" />
+						<sample value="16.955456" />
+						<sample value="15.688927" />
+						<sample value="13.483724" />
+						<sample value="11.9997835" />
+						<sample value="12.499848" />
+						<sample value="12.000249" />
+						<sample value="8.999853" />
+						<sample value="6.772353" />
+						<sample value="7.0000806" />
+						<sample value="5.500075" />
+						<sample value="5.5000916" />
+						<sample value="5.5000916" />
+						<sample value="6.8818274" />
+						<sample value="7.0000076" />
+						<sample value="6.9998827" />
+						<sample value="6.99993" />
+						<sample value="7.417259" />
+						<sample value="6.483457" />
+						<sample value="5.9925656" />
+					</function>
+				</functions>
+			<root ID="b7ce653d-c6aa-450e-9345-52f3925023ca" label="lat_5" po:accession="PO:0020121">
+				<geometry>
+					<polyline>
+					<point x="279.54507" y="732.63727" />
+					<point x="273.35126" y="734.11444" />
+					<point x="262.4003" y="735.95996" />
+					<point x="252.44914" y="737.3886" />
+					<point x="242.63501" y="739.04504" />
+					<point x="234.31161" y="740.9877" />
+					<point x="227.64728" y="741.9985" />
+					<point x="220.18222" y="742.59424" />
+					<point x="211.39651" y="744.182" />
+					<point x="202.81122" y="746.6316" />
+					<point x="195.23941" y="748.60815" />
+					<point x="186.36092" y="752.57007" />
+					<point x="178.96564" y="756.0636" />
+					<point x="173.11539" y="758.24066" />
+					<point x="165.72147" y="760.80347" />
+					<point x="158.48979" y="762.74866" />
+					<point x="153.42" y="764.11237" />
+					<point x="149.28639" y="765.86066" />
+					<point x="146.1964" y="767.3651" />
+					<point x="143.23921" y="767.93097" />
+					<point x="141.13766" y="767.42664" />
+					</polyline>
+				</geometry>
+				<functions>
+					<function domain="polyline" name="diameter">
+						<sample value="6.4998217" />
+						<sample value="5.4982133" />
+						<sample value="5.0000734" />
+						<sample value="4.999989" />
+						<sample value="4.000172" />
+						<sample value="4.000172" />
+						<sample value="4.000172" />
+						<sample value="4.000172" />
+						<sample value="4.000172" />
+						<sample value="4.000172" />
+						<sample value="4.000172" />
+						<sample value="4.000172" />
+						<sample value="4.000172" />
+						<sample value="4.000172" />
+						<sample value="4.000172" />
+						<sample value="4.000172" />
+						<sample value="4.4998302" />
+						<sample value="2.985432" />
+						<sample value="2.985432" />
+						<sample value="2.4582088" />
+						<sample value="2.4221594" />
+					</function>
+				</functions>
+ </root>
+			<root ID="7d3fd067-80ee-4517-ac6f-b4e124b5ee59" label="lat_4" po:accession="PO:0020121">
+				<geometry>
+					<polyline>
+					<point x="327.08508" y="677.3236" />
+					<point x="334.28018" y="676.57935" />
+					<point x="346.11588" y="677.11414" />
+					<point x="358.1023" y="677.9058" />
+					<point x="370.08383" y="678.4468" />
+					<point x="382.07642" y="678.48804" />
+					<point x="395.06937" y="678.7828" />
+					<point x="406.30927" y="678.53796" />
+					<point x="413.06207" y="677.391" />
+					<point x="419.9974" y="674.69214" />
+					<point x="429.66574" y="671.1963" />
+					<point x="434.47256" y="669.1978" />
+					</polyline>
+				</geometry>
+				<functions>
+					<function domain="polyline" name="diameter">
+						<sample value="5.999974" />
+						<sample value="6.433886" />
+						<sample value="6.000327" />
+						<sample value="6.0001974" />
+						<sample value="6.0003753" />
+						<sample value="6.5002146" />
+						<sample value="5.9997106" />
+						<sample value="6.4998198" />
+						<sample value="6.500063" />
+						<sample value="5.499585" />
+						<sample value="5.00021" />
+						<sample value="4.9997272" />
+					</function>
+				</functions>
+ </root>
+			<root ID="aeeb724c-2301-4a4a-9b1c-8529a3783aad" label="lat_3" po:accession="PO:0020121">
+				<geometry>
+					<polyline>
+					<point x="281.8419" y="630.38794" />
+					<point x="276.08533" y="630.2527" />
+					<point x="267.463" y="631.2909" />
+					<point x="257.61328" y="632.72363" />
+					<point x="248.47343" y="635.53827" />
+					<point x="238.1597" y="639.2343" />
+					<point x="226.00043" y="643.8572" />
+					<point x="213.12439" y="649.5523" />
+					<point x="202.96451" y="653.2265" />
+					<point x="196.33582" y="654.82666" />
+					<point x="186.50923" y="656.9468" />
+					<point x="179.09589" y="658.00366" />
+					<point x="173.35861" y="658.28595" />
+					<point x="161.69656" y="661.7336" />
+					<point x="154.38312" y="663.34265" />
+					<point x="150.60214" y="666.21326" />
+					<point x="141.93866" y="669.7546" />
+					<point x="135.73383" y="672.78076" />
+					<point x="130.3959" y="674.70856" />
+					<point x="126.17156" y="677.46814" />
+					</polyline>
+				</geometry>
+				<functions>
+					<function domain="polyline" name="diameter">
+						<sample value="6.0001698" />
+						<sample value="5.427064" />
+						<sample value="5.000209" />
+						<sample value="5.000284" />
+						<sample value="5.5002522" />
+						<sample value="6.499745" />
+						<sample value="6.9996195" />
+						<sample value="5.9997973" />
+						<sample value="6.000098" />
+						<sample value="4.999831" />
+						<sample value="3.9999301" />
+						<sample value="3.9999301" />
+						<sample value="3.9999301" />
+						<sample value="3.9999301" />
+						<sample value="3.9999301" />
+						<sample value="3.2175493" />
+						<sample value="3.2175493" />
+						<sample value="3.2175493" />
+						<sample value="3.2175493" />
+						<sample value="3.2175493" />
+					</function>
+				</functions>
+ </root>
+			<root ID="d3d6433f-9624-4205-8ee3-e6302a422eb3" label="lat_2" po:accession="PO:0020121">
+				<geometry>
+					<polyline>
+					<point x="326.4432" y="553.25653" />
+					<point x="336.74957" y="554.6878" />
+					<point x="348.54288" y="555.31726" />
+					<point x="361.50433" y="556.25934" />
+					<point x="373.48145" y="556.8794" />
+					<point x="387.72665" y="555.62054" />
+					<point x="400.39767" y="555.2476" />
+					<point x="420.34656" y="557.835" />
+					<point x="433.39307" y="558.5191" />
+					<point x="443.14453" y="559.27924" />
+					<point x="448.40952" y="559.9353" />
+					</polyline>
+				</geometry>
+				<functions>
+					<function domain="polyline" name="diameter">
+						<sample value="6.0001316" />
+						<sample value="5.9087443" />
+						<sample value="6.499904" />
+						<sample value="5.9999013" />
+						<sample value="7.0001903" />
+						<sample value="7.500453" />
+						<sample value="7.500453" />
+						<sample value="6.4999824" />
+						<sample value="5.5002756" />
+						<sample value="5.0002813" />
+						<sample value="3.9997575" />
+					</function>
+				</functions>
+			<root ID="b74d8fd9-ace5-46d4-8a06-c3d7ed9c07ae" label="sublat_2" po:accession="PO:0020121">
+				<geometry>
+					<polyline>
+					<point x="410.37836" y="550.3893" />
+					<point x="418.31592" y="548.43945" />
+					<point x="430.76453" y="544.6095" />
+					<point x="441.68176" y="541.77344" />
+					<point x="448.30438" y="540.3097" />
+					<point x="454.4341" y="541.0274" />
+					</polyline>
+				</geometry>
+				<functions>
+					<function domain="polyline" name="diameter">
+						<sample value="7.9996214" />
+						<sample value="6.4919624" />
+						<sample value="5.999743" />
+						<sample value="5.499845" />
+						<sample value="5.9997177" />
+						<sample value="5.0000196" />
+					</function>
+				</functions>
+ </root>
+ </root>
+			<root ID="74a62056-c1c1-4db7-a562-b133881f925c" label="lat_1" po:accession="PO:0020121">
+				<geometry>
+					<polyline>
+					<point x="298.33228" y="523.3186" />
+					<point x="289.82465" y="525.7475" />
+					<point x="274.94733" y="530.252" />
+					<point x="262.00098" y="532.87006" />
+					<point x="244.30878" y="534.2249" />
+					<point x="229.61342" y="537.09656" />
+					<point x="209.67244" y="535.2295" />
+					<point x="191.8696" y="538.97406" />
+					<point x="178.858" y="543.21936" />
+					</polyline>
+				</geometry>
+				<functions>
+					<function domain="polyline" name="diameter">
+						<sample value="7.5000563" />
+						<sample value="7.7526374" />
+						<sample value="7.0002356" />
+						<sample value="8.0000515" />
+						<sample value="8.239699" />
+						<sample value="8.239699" />
+						<sample value="6.000315" />
+						<sample value="6.0000978" />
+						<sample value="5.4271097" />
+					</function>
+				</functions>
+			<root ID="27fa6c6a-fc3b-4968-a278-68035f5415b1" label="sublat_1" po:accession="PO:0020121">
+				<geometry>
+					<polyline>
+					<point x="221.50143" y="542.24817" />
+					<point x="216.1878" y="543.99817" />
+					<point x="207.75491" y="546.58936" />
+					<point x="198.68607" y="550.1164" />
+					<point x="188.32043" y="551.8345" />
+					<point x="182.17545" y="553.1167" />
+					</polyline>
+				</geometry>
+				<functions>
+					<function domain="polyline" name="diameter">
+						<sample value="7.00022" />
+						<sample value="4.498514" />
+						<sample value="4.498514" />
+						<sample value="4.498514" />
+						<sample value="4.500253" />
+						<sample value="4.500253" />
+					</function>
+				</functions>
+ </root>
+ </root>
+ </root>
+			<root ID="b333204e-cfd7-4714-b924-9cd7a35c1a14" label="basal_2" po:accession="PO:0025002">
+				<geometry>
+					<polyline>
+					<point x="282.1767" y="271.5537" />
+					<point x="267.86578" y="272.99997" />
+					<point x="229.9989" y="277.25235" />
+					<point x="194.85674" y="281.91492" />
+					<point x="158.03183" y="285.667" />
+					<point x="133.60909" y="288.79578" />
+					<point x="114.50827" y="292.54858" />
+					<point x="98.97127" y="296.17664" />
+					<point x="67.39634" y="302.2788" />
+					<point x="48.83505" y="307.39267" />
+					<point x="34.97899" y="310.77423" />
+					<point x="27.301939" y="314.3228" />
+					</polyline>
+				</geometry>
+				<functions>
+					<function domain="polyline" name="diameter">
+						<sample value="16.49991" />
+						<sample value="18.47725" />
+						<sample value="17.83983" />
+						<sample value="19.00034" />
+						<sample value="17.354574" />
+						<sample value="16.500082" />
+						<sample value="15.999581" />
+						<sample value="15.979818" />
+						<sample value="12.000291" />
+						<sample value="10.499914" />
+						<sample value="8.027228" />
+						<sample value="4.9999566" />
+					</function>
+				</functions>
+ </root>
+			<root ID="8bd133a8-00a8-46e6-83e7-5874cfe6d72e" label="basal_3" po:accession="PO:0025002">
+				<geometry>
+					<polyline>
+					<point x="337.56927" y="274.64676" />
+					<point x="378.66833" y="265.62424" />
+					<point x="420.8708" y="263.25037" />
+					<point x="453.12268" y="262.74915" />
+					<point x="491.094" y="262.5747" />
+					<point x="530.13354" y="262.1601" />
+					<point x="553.34894" y="260.5492" />
+					<point x="569.99866" y="261.1609" />
+					<point x="579.1504" y="261.40753" />
+					</polyline>
+				</geometry>
+				<functions>
+					<function domain="polyline" name="diameter">
+						<sample value="10.999805" />
+						<sample value="12.983582" />
+						<sample value="12.252627" />
+						<sample value="14.95802" />
+						<sample value="11.940317" />
+						<sample value="10.969096" />
+						<sample value="6.49186" />
+						<sample value="6.4998403" />
+						<sample value="6.4980316" />
+					</function>
+				</functions>
+			<root ID="30cfaea1-db82-4285-9b43-e824397b31dc" label="basal_3_lat" po:accession="PO:0020121">
+				<geometry>
+					<polyline>
+					<point x="464.2912" y="250.07153" />
+					<point x="491.42883" y="233.30984" />
+					<point x="515.3147" y="218.79416" />
+					<point x="545.00574" y="204.55777" />
+					<point x="561.86426" y="199.02676" />
+					</polyline>
+				</geometry>
+				<functions>
+					<function domain="polyline" name="diameter">
+						<sample value="8.9999" />
+						<sample value="11.940146" />
+						<sample value="10.8323765" />
+						<sample value="7.3110437" />
+						<sample value="1.8292141" />
+					</function>
+				</functions>
+ </root>
+ </root>
+			<root ID="2b4bb064-5d13-490b-bc19-50798eb0b208" label="basal_4" po:accession="PO:0025002">
+				<geometry>
+					<polyline>
+					<point x="332.3519" y="334.15204" />
+					<point x="347.6239" y="329.6662" />
+					<point x="387.4277" y="323.65628" />
+					<point x="433.72955" y="318.19086" />
+					<point x="458.31372" y="317.83795" />
+					<point x="496.1294" y="314.57825" />
+					<point x="521.99243" y="313.75214" />
+					<point x="532.3997" y="313.7261" />
+					<point x="562.2372" y="312.17755" />
+					<point x="578.07416" y="308.92636" />
+					<point x="586.8279" y="308.00812" />
+					</polyline>
+				</geometry>
+				<functions>
+					<function domain="polyline" name="diameter">
+						<sample value="14.000307" />
+						<sample value="19.445318" />
+						<sample value="18.905241" />
+						<sample value="15.495041" />
+						<sample value="18.851402" />
+						<sample value="19.475784" />
+						<sample value="13.004221" />
+						<sample value="10.78122" />
+						<sample value="11.906336" />
+						<sample value="5.498254" />
+						<sample value="3.4901407" />
+					</function>
+				</functions>
+			<root ID="7de0f993-7942-4490-a635-31264e0a027c" label="basal_4_lat" po:accession="PO:0020121">
+				<geometry>
+					<polyline>
+					<point x="469.92627" y="330.23865" />
+					<point x="474.9677" y="337.09207" />
+					<point x="491.01456" y="348.58527" />
+					<point x="503.9773" y="359.56555" />
+					<point x="518.54846" y="371.07355" />
+					<point x="530.7206" y="377.5494" />
+					</polyline>
+				</geometry>
+				<functions>
+					<function domain="polyline" name="diameter">
+						<sample value="8.500185" />
+						<sample value="8.500268" />
+						<sample value="7.960259" />
+						<sample value="6.980576" />
+						<sample value="7.491018" />
+						<sample value="6.5778427" />
+					</function>
+				</functions>
+ </root>
+ </root>
+		</plant>
+	</scene>
+</rsml>
