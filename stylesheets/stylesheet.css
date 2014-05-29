@@ -440,7 +440,7 @@ div.example_block{
   border-color:#909090;
   background-color:#EEE;
   overflow:hidden;
-  padding: 5px 5px 5px 110px;
+  padding: 0px 5px 0px 110px;
   margin: 0 0 5px 0;
   -webkit-box-shadow: rgba(0,0,0,0.5) 1px 1px 3px;
   -moz-box-shadow: rgba(0,0,0,0.5) 1px 1px 3px;
