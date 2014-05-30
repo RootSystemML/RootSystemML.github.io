@@ -42,14 +42,14 @@ The RSML format has been implemented in the following software:
 #####People
 The RSML format was born from a collaboration between:
 
- - [Julien Diener](mailto:julien.diener@inria.fr), INRIA, Virtual Plants
- - [Xavier Draye](mailto:xavier.draye@uclouvain.be), Université catholique de Louvain
+ - [Julien Diener](https://sites.google.com/site/juliendiener/), INRIA, Virtual Plants
+ - [Xavier Draye](http://www.uclouvain.be/xavier.draye), Université catholique de Louvain
  - [Christophe Godin](mailto:christophe.godin@inria.fr), INRIA, Virtual Plants
- - [Daniel Leitner](daniel.leitner@univie.ac.at), University of Vienna
+ - [Daniel Leitner](mailto:daniel.leitner@univie.ac.at), University of Vienna
  - [Guillaume Lobet](http://www.guillaumelobet.be), Université de Liège
- - [Philipe Nacry](nacry@supagro.inra.fr), INRA
- - [Mike Pound](Michael.Pound@nottingham.ac.uk), University of Nottingham
- - [Christophe Pradal](christophe.pradal@inria.fr), CIRAD
- - [Tony Pridmore](Tony.Pridmore@nottingham.ac.uk), University of Nottingham
- - [Andrea Schnepf](a.schnepf@fz-juelich.de), Forschungszentrum Juelich 
+ - [Philipe Nacry](mailto:nacry@supagro.inra.fr), INRA
+ - [Mike Pound](http://www.cpib.ac.uk/people/michael-pound/), University of Nottingham
+ - [Christophe Pradal](mailto:christophe.pradal@inria.fr), CIRAD
+ - [Tony Pridmore](http://www.cpib.ac.uk/people/tony-pridmore/), University of Nottingham
+ - [Andrea Schnepf](http://www.fz-juelich.de/ibg/ibg-3/EN/Staff/S/Schnepf%20Dr.%20Andrea.html?nn=1239630), Forschungszentrum Juelich 
 
