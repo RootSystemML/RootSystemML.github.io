@@ -42,14 +42,14 @@ The RSML format has been implemented in the following software:
 #####People
 The RSML format was born from a collaboration between:
 
- - [Julien Diener](), INRIA
- - [Xavier Draye](), Université catholique de Louvain
- - [Christophe Godin](), INRIA
- - [Daniel Leitner](), University of Vienna
- - [Guillaume Lobet](), Université de Liège
- - [Philipe Nacry](), INRA
- - [Mike Pound](), University of Nottingham
- - [Christophe Pradal](), CIRAD
- - [Tony Pridmore](), University of Nottingham
- - [Andrea Schnepf](), Forschungszentrum Juelich 
+ - [Julien Diener](julien.diener@inria.fr), INRIA, Virtual Plants
+ - [Xavier Draye](xavier.draye@uclouvain.be), Université catholique de Louvain
+ - [Christophe Godin](christophe.godin@inria.fr), INRIA, Virtual Plants
+ - [Daniel Leitner](daniel.leitner@univie.ac.at), University of Vienna
+ - [Guillaume Lobet](http://www.guillaumelobet.be), Université de Liège
+ - [Philipe Nacry](nacry@supagro.inra.fr), INRA
+ - [Mike Pound](Michael.Pound@nottingham.ac.uk), University of Nottingham
+ - [Christophe Pradal](christophe.pradal@inria.fr), CIRAD
+ - [Tony Pridmore](Tony.Pridmore@nottingham.ac.uk), University of Nottingham
+ - [Andrea Schnepf](a.schnepf@fz-juelich.de), Forschungszentrum Juelich 
 
