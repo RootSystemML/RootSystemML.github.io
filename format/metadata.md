@@ -30,11 +30,11 @@ layout: default
     
     <property-definitions>
       <property-definition>
-        <label>example-property</label>
-        <type>integer</type>
+        <label>dead</label>
+        <type>boolean</type>
       </property-definition>
       <function-definition>
-        <label>example-function</label>
+        <label>diameter</label>
         <type>real</type>
       </property-definition>
     </property-definitions>
@@ -67,27 +67,15 @@ layout: default
 #####time-sequences
   - **label** is the name if the sequence the root system as part of. Other documents in the same sequence must have the same label.
   - **index** identifies the position in the sequence relative to all other images with that label. Indexes should be unique within a sequence, and in ascending order relative to time captured.
-  - **unified** (optional) is a Boolean value indicating whether corresponding root components share the same ids across files in the time sequence. As a Boolean value, unified can be recorded as `<unified>true</unified>` and `<unified>false</unified>`. In the absence of a unified tag, the default value of false is assigned.
+  - **unified** (optional) is a Boolean value indicating whether corresponding plant and root components share the same ids across files in the time sequence. As a Boolean value, unified can be recorded as `<unified>true</unified>` and `<unified>false</unified>`. In the absence of a unified tag, the default value of false is assigned.
 
 #####property-definitions
-  - It allows a given file to define the names and types of properties, using the `property-definition` subelement, and of functions, using the `function-definition` subelement, that are used in the [scene][]. 
-  - Both should contain two elements: `<name>` and `<type>`. The type should be preferably chosen from the [standard units][].
+  - It allows a given file to define the names and types of properties, using the **property-definition** subelement, and of functions, using the **function-definition** subelement, that are used in the [scene][]. 
+  - Both should contain two elements: `<name>` and `<type>`. The type should preferably be chosen from the [standard units][].
   - An optional **default** element can be used to provide the value of the property to be used when a plant or root does not contain.
   - Software is not compelled to act on attributes found, they should be resaved.
   - The RSML [Thesaurus][] provides a recommended list of pre-defined properties and functions. Software should handle and use these whenever possible, and define only new and distinct properties.
-  
-  Example:
-  
-  {% highlight xml %}
-    <property-definitions>
-      <property-definition>
-        <label>example-property</label>
-        <type>integer</type>
-      </property-definition>
-    </property-definitions>
-  {% endhighlight %}    
-
-  This define a property called *dead* for plants and/or root that have a boolean value, such as: `<dead>true</dead>`.
+  - For example, in the **metadata** tree at the top of this page, defines a property called *dead* for plants and/or root that have a boolean value, such as: `<dead>true</dead>`, and a function *diameter* with real value.
 
 [standard units]: units
 [thesaurus]: thesaurus
