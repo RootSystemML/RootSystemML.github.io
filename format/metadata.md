@@ -49,8 +49,6 @@ layout: default
   - All geometry and values within the document use the pixel as the unit of measurement, with the assumption that they refer directly to some underlying [image data](#image).
   - The unit tag specifies what units the resolution tag converts to, with the resolution tag detailing the conversion rate between pixels and the unit. If possible, one of the [standard units][] should be used. 
 
-[standard units]: units
-  
 #####last-modified
   - date and time stamp of the last modification of the rsml file
   - It should respect the [ISO8601][] format
@@ -66,18 +64,35 @@ layout: default
 [ISO8601]: units#data-and-time
 [SHA-256]: http://en.wikipedia.org/wiki/SHA-2
   
+#####time-sequences
+  - **label** is the name if the sequence the root system as part of. Other documents in the same sequence must have the same label.
+  - **index** identifies the position in the sequence relative to all other images with that label. Indexes should be unique within a sequence, and in ascending order relative to time captured.
+  - **unified** (optional) is a Boolean value indicating whether corresponding root components share the same ids across files in the time sequence. As a Boolean value, unified can be recorded as `<unified>true</unified>` and `<unified>false</unified>`. In the absence of a unified tag, the default value of false is assigned.
+
 #####property-definitions
-  - These allow a given file to define types that will be used in the properties tags later in the document. For example, in the format “name type” the property “dead boolean" allows the `<dead>true</dead>` attribute to be added to the attributes tag for a plant or root.
-  - The optional default tag can be used to provide a value where a tag is not found.
+  - It allows a given file to define the names and types of properties, using the `property-definition` subelement, and of functions, using the `function-definition` subelement, that are used in the [scene][]. 
+  - Both should contain two elements: `<name>` and `<type>`. The type should be preferably chosen from the [standard units][].
+  - An optional **default** element can be used to provide the value of the property to be used when a plant or root does not contain.
   - Software is not compelled to act on attributes found, they should be resaved.
-  - The RSML specification provides a recommended list of pre-defined properties. Software should handle and use these properties whenever possible, and define only new and distinct properties.
+  - The RSML [Thesaurus][] provides a recommended list of pre-defined properties and functions. Software should handle and use these whenever possible, and define only new and distinct properties.
+  
+  Example:
+  
+  {% highlight xml %}
+    <property-definitions>
+      <property-definition>
+        <label>example-property</label>
+        <type>integer</type>
+      </property-definition>
+    </property-definitions>
+  {% endhighlight %}    
 
-#####Time Sequences
-  - Label identifies an image as being part of a specific time sequence. Other documents in the same sequence must have the same label
-  - Index identifies the position in the sequence relative to all other images with that label. Indexes should be unique within a sequence, and in ascending order relative to time captured.
-  - Unified is a Boolean value indicating whether corresponding components share the same ids across files in the time sequence.
-  - As a Boolean value, unified can be recorded as <unified>true</unified> and <unified>false</unified>. In the absence of a unified tag, the default value of false will be assigned.
+  This define a property called *dead* for plants and/or root that have a boolean value, such as: `<dead>true</dead>`.
 
+[standard units]: units
+[thesaurus]: thesaurus
+[scene]: scene
+  
 [Back to RSML file format](index)
 
 
