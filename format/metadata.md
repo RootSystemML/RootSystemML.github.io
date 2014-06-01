@@ -13,12 +13,31 @@ layout: default
     <last-modified>2014-02-20T00:00:00</last-modified>
     <software>RSML-example</software>
     <user>RSML-team</user>
+    
     <file-key>RSML-metadata-example</file-key>
+    
     <image>
         <name>name_of_image_file</name>
         <captured>2014-02-19T00:00:00</captured>
         <sha256>XXXXXXXXX</sha256>
     </image>
+    
+    <time-sequence>
+      <label>example-sequence-name</label>
+      <index>0</index>
+      <unified>true</unified>
+    </time-sequence>
+    
+    <property-definitions>
+      <property-definition>
+        <label>example-property</label>
+        <type>integer</type>
+      </property-definition>
+      <function-definition>
+        <label>example-function</label>
+        <type>real</type>
+      </property-definition>
+    </property-definitions>
 </metadata>
 {% endhighlight %}    
     
