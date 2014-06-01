@@ -75,7 +75,9 @@ layout: default
   - An optional **default** element can be used to provide the value of the property to be used when a plant or root does not contain.
   - Software is not compelled to act on attributes found, they should be resaved.
   - The RSML [Thesaurus][] provides a recommended list of pre-defined properties and functions. Software should handle and use these whenever possible, and define only new and distinct properties.
-  - For example, in the [metadata][] tree at the top of this page, defines a property called *dead* for plants and/or root that have a boolean value, such as: `<dead>true</dead>`, and a function *diameter* with real value.
+  - For example, the [metadata][] tree at the top of this page defines 
+   - a property called *dead* for plants and/or root that have a boolean value, such as: `<dead>true</dead>`, and
+   - a function *diameter* with real value.
 
 [metadata]: #the-rsml-metadata
 [standard units]: units
