@@ -1,16 +1,13 @@
 ---
-title: Conversion tools for RSML
+title: ImageJ plugin - RSML Reader
 layout: default
 ---
 
-[![RSML format schema](/images/format.png)](/images/format.png)
 
-Several packages were developped for the conversion and analysis of RSL datafiles.
-
- - R
- - Java (ImageJ)
- - Excell
- - Python
+The RSML Reader plugin allows users to import a bunch of RSML datafiles and extract the needed information, either at the plant, root or node level. 
+ 
+[![ImageJ RSML Reader](/images/imagej_rsml.png)](/images/imagej_rsml.png)
+ 
  
 [Back to RSML home](/index)
 
