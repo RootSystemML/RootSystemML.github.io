@@ -1,16 +1,14 @@
 ---
-title: Conversion tools for RSML
+title: Excell plugin
 layout: default
 ---
 
-[![RSML format schema](/images/format.png)](/images/format.png)
+The Excell plugin allows the import and manupilation of RSML datafiles. It is based on the RootNav [Pound et al. 2013]
 
-Several packages were developped for the conversion and analysis of RSL datafiles.
 
- - R
- - Java (ImageJ)
- - Excell
- - Python
+
+[![Excell plugin interface](/images/excell_rsml.png)](/images/excell_rsml.png)
+
  
-[Back to RSML home](/index)
+[R](/tools/r_rsml) | [ImageJ](/tools/imagej_rsml) |  [Python](/tools/python_rsml) |  [Excell](/tools/excell_rsml) |  [Back to RSML home](/index)
 

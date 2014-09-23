@@ -8,6 +8,5 @@ The RSML Reader plugin allows users to import a bunch of RSML datafiles and extr
  
 [![ImageJ RSML Reader](/images/imagej_rsml.png)](/images/imagej_rsml.png)
  
- 
-[Back to RSML home](/index)
+[R](/tools/r_rsml) | [ImageJ](/tools/imagej_rsml) |  [Python](/tools/python_rsml) |  [Excell](/tools/excell_rsml) |  [Back to RSML home](/index)
 
