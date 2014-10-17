@@ -2,11 +2,9 @@
 title: Conversion tools for RSML
 layout: default
 ---
-
+The rsml python package provides conversion between rsml format and MTG, 2D and 3D plots and standard analysis.
 
 [View source on GitHub](https://github.com/RootSystemML/RSML-conversion-tools/tree/master/python/rsml)
-
-
 [![Python RSML package](/images/python_rsml.png)](/images/python_rsml.png)
 
 
