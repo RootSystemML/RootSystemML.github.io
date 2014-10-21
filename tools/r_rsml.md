@@ -7,9 +7,9 @@ The R package allow the import, analysis and plotting of RSML datafiles.
 
 The API is based on three new classes:
 
-- node: lowest information level. Contains the actual coordinates of the different polylines contained in the RSML file. Cain contain morphological information such as the diameter, age, orientation of the nodes.
-- root: collection of nodes formation a biological root. Can be contain children. 
-- plant: collection of roots forming the root system
+- **node**: lowest information level. Contains the actual coordinates of the different polylines contained in the RSML file. Cain contain morphological information such as the diameter, age, orientation of the nodes.
+- **root**: collection of nodes formation a biological root. Can be contain children. 
+- **plant**: collection of roots forming the root system
 
 These thre levels allows the user to easily retrieve data that are biologically relevant such as the totla length of the different root types, the insertion angles or the 3D repartitions of the roots in space. 
 
