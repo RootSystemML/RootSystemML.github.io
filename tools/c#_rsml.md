@@ -18,8 +18,6 @@ These classes allow quantitative traits to be calculated over root systems easil
 
 [View source on SourceForge](https://sourceforge.net/p/rootnav/code/ci/default/tree/) | [Download binaries](http://sourceforge.net/projects/rootnav/files/RSML%20C%23%20x64.zip/download)
 
-[![R interface](/images/r_rsml.png)](/images/r_rsml.png)
-
 ## Other tools
 
 [R](/tools/r_rsml) | [ImageJ](/tools/imagej_rsml) |  [Python](/tools/python_rsml) |  [Excel](/tools/excell_rsml)|  [C#](/tools/c#_rsml) |  [Back to RSML home](/index)
