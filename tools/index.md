@@ -5,7 +5,7 @@ layout: default
 
 [![RSML format schema](/images/format.png)](/images/format.png)
 
-Several packages were developed for the conversion and analysis of RSL datafiles.
+Several packages have been developed for the conversion and analysis of RSML datafiles.
 
  - [R](r_rsml)
  - [Java (ImageJ)](imagej_rsml)
