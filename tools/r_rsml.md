@@ -3,7 +3,7 @@ title: RSML R package
 layout: default
 ---
 
-The R package allow the import, analysis and plotting of RSML datafiles.
+The R package allow the import, analysis and plotting of RSML datafiles. The package is available on [CRAN](http://cran.r-project.org).
 
 The API is based on three new classes:
 
