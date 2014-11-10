@@ -5,6 +5,7 @@ layout: default
 
 [![RSML interoperability](/images/rsml_logo.png)](/images/interoperability.png)
 
+
 RootSystemML is a file format to represent root architectural data. It has been designed to overcome two major challenges: 
 
  1. To enable portability of root architecture data between different software tools in an easy and interoperable manner allowing seamless collaborative work, 
