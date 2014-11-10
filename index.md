@@ -3,8 +3,7 @@ title: RootSystemML home page
 layout: default
 ---
 
-<div style="text-align:center">[![RSML interoperability](/images/rsml_logo.png)](/images/interoperability.png)</div>
-
+[![RSML interoperability](/images/rsml_logo.png)](/images/interoperability.png)
 
 RootSystemML is a file format to represent root architectural data. It has been designed to overcome two major challenges: 
 
