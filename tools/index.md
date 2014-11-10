@@ -3,7 +3,7 @@ title: Conversion tools for RSML
 layout: default
 ---
 
-[![RSML format schema](/images/format.png)](/images/format.png)
+[![RSML format schema](/images/interoperability_h300.png)](/images/interoperability_h300)
 
 Several packages have been developed for the conversion and analysis of RSML datafiles.
 
