@@ -5,7 +5,7 @@ layout: default
 
 ### Aim
 
-The R package allow the import, analysis and plotting of RSML datafiles. The package is available on [CRAN](http://cran.r-project.org).
+The R package allow the import, analysis and plotting of RSML datafiles. 
 
 The API is based on three new classes:
 
@@ -48,7 +48,7 @@ These thre levels allows the user to easily retrieve data that are biologically 
 
 
 
-[View source on GitHub](https://github.com/RootSystemML/RSML-conversion-tools/tree/master/r) | [Download binaries](https://github.com/RootSystemML/RSML-conversion-tools/blob/master/r/RSML_1.0.tgz)
+[View source on GitHub](https://github.com/RootSystemML/RSML-conversion-tools/tree/master/r) | [Download binaries](https://github.com/RootSystemML/RSML-conversion-tools/blob/master/r/RSML_1.2.tgz)
 
 [![R interface](/images/r_rsml.png)](/images/r_rsml.png)
 
