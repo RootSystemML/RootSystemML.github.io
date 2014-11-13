@@ -3,6 +3,8 @@ title: RSML R package
 layout: default
 ---
 
+### Aim
+
 The R package allow the import, analysis and plotting of RSML datafiles. The package is available on [CRAN](http://cran.r-project.org).
 
 The API is based on three new classes:
@@ -12,6 +14,29 @@ The API is based on three new classes:
 - **plant**: collection of roots forming the root system
 
 These thre levels allows the user to easily retrieve data that are biologically relevant such as the total length of the different root types, the insertion angles or the 3D repartitions of the roots in space. 
+
+### Use
+    
+    path <- "~/Desktop/Divers/rsml_tests/lupin-aero-1.rsml"
+    
+    # Get the RSML file as a table containing the root information
+    pl.list <- rsmlToList(path)
+    write.csv(pl.list$processed, "~/Desktop/rsml-table.csv")
+    
+    # Get the RSML as  a plant object
+    pl <- rsmlToPlant(path)
+    
+    # Plot the plant
+    plot(pl)
+    
+    # Display the plant properties
+    print(pl)
+    
+    # Get the plant summary
+    sum.plant <- summary(pl)
+    sum.plant$total.length$value # Get the total lenght of the plant
+    sum.plant$prim.length$value # Get the primary lenght of the plant
+
 
 
 [View source on GitHub](https://github.com/RootSystemML/RSML-conversion-tools/tree/master/r) | [Download binaries](https://github.com/RootSystemML/RSML-conversion-tools/blob/master/r/RSML_1.0.tgz)
