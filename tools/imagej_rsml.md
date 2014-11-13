@@ -3,17 +3,17 @@ title: ImageJ plugin - RSML Reader
 layout: default
 ---
 
-# Aim
+## Aim
 The RSML Reader plugin allows users to import a bunch of RSML datafiles and extract the needed information, either at the plant, root or node level. 
 
 For programmers, the plugin includes a complete API that could be re-used for other projects. 
 
-# Installation
+## Installation
 
 - Download the RSML_reader.jar file (see below)
 - copy the RSML_reader.jar file to the folder **/ImageJ/plugin**
 
-# Use
+## Use
 
 - Launch ImageJ
 - Open the plugin throught the menu **Plugins/RSML Reader**
