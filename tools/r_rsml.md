@@ -15,7 +15,7 @@ The API is based on three new classes:
 
 These thre levels allows the user to easily retrieve data that are biologically relevant such as the total length of the different root types, the insertion angles or the 3D repartitions of the roots in space. 
 
-**WARNING** RSML-R is still in development, so miskakes can happen... If so, please contact [Guillaume Lobet](mailto:guillaume.lobet@ulg.ac.be)
+**WARNING** : RSML-R is still in development, so miskakes can happen... If so, please contact [Guillaume Lobet](mailto:guillaume.lobet@ulg.ac.be)
 
 ### Use
     
