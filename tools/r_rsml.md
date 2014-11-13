@@ -36,6 +36,13 @@ These thre levels allows the user to easily retrieve data that are biologically 
     sum.plant <- summary(pl)
     sum.plant$total.length$value # Get the total lenght of the plant
     sum.plant$prim.length$value # Get the primary lenght of the plant
+    
+    # try to load 3D data
+    data(anagallis)
+    plot(anagallis, threed = T)
+    print(anagallis)
+
+
 
 
 
