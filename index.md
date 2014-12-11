@@ -42,7 +42,7 @@ The RSML format has been implemented in the following software:
 #####People
 The RSML format was born from a collaboration between:
 
- - [Julien Diener](https://sites.google.com/site/juliendiener/), INRIA, Virtual Plants
+ - [Julien Diener](http://home-juliendiener.rhcloud.com/), INRIA, Virtual Plants
  - [Xavier Draye](http://www.uclouvain.be/xavier.draye), Université catholique de Louvain
  - [Christophe Godin](https://team.inria.fr/virtualplants/christophe-godin/), INRIA, Virtual Plants
  - [Daniel Leitner](mailto:daniel.leitner@univie.ac.at), University of Vienna
