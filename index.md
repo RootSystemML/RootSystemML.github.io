@@ -37,6 +37,7 @@ The RSML format has been implemented in the following software:
   - [RootNav](http://www.cpib.ac.uk/tools-resources/software/rootnav/)
   - [RhizoScan](https://team.inria.fr/virtualplants/research/project/rhizoscan/)
   - [Root System Analyser](http://www.csc.univie.ac.at/rootbox/rsa.html)
+  - [RooTrak](http://www.rootrak.net)
  
 2. Modelling 
   - [RootBox](http://www.csc.univie.ac.at/rootbox)
