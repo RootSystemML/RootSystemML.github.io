@@ -32,11 +32,24 @@ See [the file format page](format) for a detailed description of the features an
 #####Supported software
 The RSML format has been implemented in the following software:
 
+- Image analysis
  - [SmartRoot](http://www.uclouvain.be/en-smartroot)
  - [RootNav](http://www.cpib.ac.uk/tools-resources/software/rootnav/)
  - [RhizoScan](https://team.inria.fr/virtualplants/research/project/rhizoscan/)
  - [Root System Analyser](http://www.csc.univie.ac.at/rootbox/rsa.html)
+ 
+- Modelling 
+ - [RootBox](http://www.csc.univie.ac.at/rootbox/rsa.html)
+ - [R-SWMS](http://sites.uclouvain.be/RSWMS/)
+ - ArchiSimple
 
+- Data analysis
+ - [rsml for R](http://cran.r-project.org/web/packages/rsml/index.html)
+ - [rsml for Excel](http://sourceforge.net/p/rootnav/code/ci/default/tree/)
+ - [rsml for ImageJ](https://github.com/RootSystemML/RSML-conversion-tools/tree/master/imagej)
+ - [rsml for Python](https://github.com/RootSystemML/RSML-conversion-tools/tree/master/python/rsml)
+ - [ArchiDART](http://cran.r-project.org/web/packages/archiDART/index.html)
+ 
 [comment]: # ([See the supporting software page for more details](software))
 
 #####People
