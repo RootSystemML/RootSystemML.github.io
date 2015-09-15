@@ -39,6 +39,7 @@ The RSML format has been implemented in the following software:
   - [Root System Analyser](http://www.csc.univie.ac.at/rootbox/rsa.html)
   - [RooTrak](http://www.rootrak.net)
   - [EZ-Rhizo](http://www.psrg.org.uk/plant-biometrics.html)
+  - [GLO-RIA](http://www.rrlab.org/GLO-Roots/)
  
 2. Modelling 
   - [RootBox](http://www.csc.univie.ac.at/rootbox)
