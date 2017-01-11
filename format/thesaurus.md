@@ -30,6 +30,22 @@ ________
 
 #####Property thesaurus:
 
+
+######species: (scene,plant)
+Indicate the plant species in the image. Use latin names
+
+######genotype: (scene,plant)
+Indicate the plant genotype in the image.
+
+######medium: (scene)
+Indicate the growing medium used for the plant present in the image. e.g. *agar*, *hoagland*, ...
+
+######treatment: (scene)
+Indicate wether a specific treatment was applied to the plants. e.g. *water stress*, *mock*, *P deficiency*, ...
+
+######age_of_plant: (scene, plant)
+Age of the plant, in days.
+
 ######complete: (root)
 Indicates if the root axes has been fully traced ([type][]: string)
 
