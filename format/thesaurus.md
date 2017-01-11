@@ -32,19 +32,19 @@ ________
 
 
 ###### species: (scene,plant)
-Indicate the plant species in the image. Use latin names
+Indicate the plant species in the image. Prefer latin names. ([type][]: string)
 
 ###### genotype: (scene,plant)
-Indicate the plant genotype in the image.
+Indicate the plant genotype in the image. ([type][]: string)
 
 ###### medium: (scene)
-Indicate the growing medium used for the plant present in the image. e.g. *agar*, *hoagland*, ...
+Indicate the growing medium used for the plant present in the image. ([type][]: string)
 
 ###### treatment: (scene)
-Indicate wether a specific treatment was applied to the plants. e.g. *water stress*, *mock*, *P deficiency*, ...
+Indicate wether a specific treatment was applied to the plants. ([type][]: string)
 
 ###### age_of_plant: (scene, plant)
-Age of the plant, in days.
+Age of the plant, in days. ([type][]: integer)
 
 ###### complete: (root)
 Indicates if the root axes has been fully traced ([type][]: string)
