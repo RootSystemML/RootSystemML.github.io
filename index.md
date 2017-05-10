@@ -43,6 +43,8 @@ The RSML format has been implemented in the following software:
  
 2. Modelling 
   - [RootBox](http://www.csc.univie.ac.at/rootbox)
+  - [CRootBox](https://plant-root-soil-interactions-modelling.github.io/CRootBox/)
+  - [SimRoot](http://rootmodels.gitlab.io/)
   - [R-SWMS](http://sites.uclouvain.be/RSWMS/)
   - ArchiSimple
 
