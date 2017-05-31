@@ -33,7 +33,7 @@ See [the file format page](format) for a detailed description of the features an
 The RSML format has been implemented in the following software:
 
 1. Image analysis
-  - [SmartRoot](http://www.uclouvain.be/en-smartroot)
+  - [SmartRoot](http://smartroot.github.io)
   - [RootNav](http://www.cpib.ac.uk/tools-resources/software/rootnav/)
   - [RhizoScan](https://team.inria.fr/virtualplants/research/project/rhizoscan/)
   - [Root System Analyser](http://www.csc.univie.ac.at/rootbox/rsa.html)
