@@ -16,3 +16,9 @@ exclude:
 - script
 - vendor
 
+
+title: Rhizobabel.github.io
+description: Website for the RhizoBabel project
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-dinky
